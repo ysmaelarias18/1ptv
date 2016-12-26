@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>xxx</title>
+    <link />
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>xxx 7</title>
+      <pubDate>Wed, 21 Dec 2016 03:02:26 -0400</pubDate>
+      <link>http://137.74.94.161:8000/live/claire/claire/9642.m3u8</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>xxx 4</title>
+      <pubDate>Wed, 21 Dec 2016 03:00:04 -0400</pubDate>
+      <link>http://137.74.94.161:8000/live/claire/claire/9641.m3u8</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>xxx 3</title>
+      <pubDate>Wed, 21 Dec 2016 02:56:33 -0400</pubDate>
+      <link>http://137.74.94.161:8000/live/bigbilly/bigbilly/9642.ts</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>xxx 2</title>
+      <pubDate>Wed, 21 Dec 2016 02:55:08 -0400</pubDate>
+      <link>http://137.74.94.161:8000/live/bigbilly/bigbilly/9647.ts</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>xxx 1</title>
+      <pubDate>Wed, 21 Dec 2016 02:54:45 -0400</pubDate>
+      <link>http://137.74.94.161:8000/live/bigbilly/bigbilly/9650.ts</link>
+      <guid isPermaLink="true">http://137.74.94.161:8000/live/bigbilly/bigbilly/9650.ts</guid>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>

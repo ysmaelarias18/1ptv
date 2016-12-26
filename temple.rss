@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE request [<!ENTITY xxe SYSTEM “file=index.php">]>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>CERTV Canal 4 R. Dominicana</title>
+    <link>http://216.24.196.40:1935/live/canal4/playlist.m3u8</link>
+    <description>A blog about things</description>
+    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
+    <item>
+        <title>Telemicro 5 R. Dominicana</title>
+<link>http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+ <item>
+        <title>Color Vision 9 R. Dominicana</title>
+        <link>http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item> 
+<item>
+        <title>TeleCentro 13 R. Dominicana</title>
+<link>http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item> <item>
+        <title>Digital 15 R. Dominicana</title>
+<link>http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item> <item>
+        <title>CDN 37 R. Dominicana</title>
+<link>http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+ <item>
+        <title>CDN Sportmax R.Dominicana</title>
+<link>http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+ <item>
+        <title>HBO LA</title>
+        <link>http://104.236.156.252:8081/rstm/HBO1/playlist.m3u8</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+ <item>
+        <title>&xxe;</title>
+        <link>http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+ <item>
+        <title>&xxe;</title>
+        <link>http://example.com</link>
+        <description>a post</description>
+        <author>author@example.com</author>
+        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+    </item>
+</channel>
+</rss>
+HBO LA
+http://104.236.156.252:8081/rstm/HBO1/playlist.m3u8
