@@ -30,13 +30,13 @@
     <item>
       <title>X-MEN WOLVERINE INMORTAL</title>
 <thumbnail>http://static7.comicvine.com/uploads/original/8/89742/3081195-wolverine_inmortal_new_poster_latino_e_cine_1.jpg</thumbnail>
-      <pubDate>Wed, 28 Dec 2016 05:00:43 -0400</pubDate>
+ <pubDate>Wed, 28 Dec 2016 05:00:43 -0400</pubDate>
       <enclosure url="http://www.spruto.tv/get_file/2/2bcad26c929f87be992c432ca73b3d13/105000/105713/105713.mp4" length="" type="" />
       <description><![CDATA[]]></description>
     </item>
     <item>
       <title>X-MEN ORIGENES WOLVERINE</title>
-      <thumbnail> </thumbnail>
+      <thumbnail>https://media.outnow.ch/Movies/Bilder/2009/Wolverine/posters.p/04.jpg </thumbnail>
       <pubDate>Wed, 28 Dec 2016 05:00:00 -0400</pubDate>
       <enclosure url="http://www.spruto.tv/get_file/2/5082de5577af1c96970323f85f6bb7d8/105000/105719/105719.mp4" length="" type="" />
       <description><![CDATA[]]></description>
@@ -214,6 +214,16 @@
       <pubDate>Wed, 28 Dec 2016 04:40:28 -0400</pubDate>
       <enclosure url="http://iptvcanales.com/xw/peliculas.php?movie=001" length="" type="" />
       <description><![CDATA[]]></description>
+    </item>
+     <item>
+      <title>APARTAMENTO 1303 </title>
+ <image>https://4.bp.blogspot.com/-SHgW6x8vA1U/VtYd61r9zXI/AAAAAAAABBE/vVsweezi7NM/s1600/1303.png</image>
+      <pubDate>Sun, 25 Dec 2016 18:40:07 -0400</pubDate>
+      <link>https://es.wikipedia.org/wiki/Jos%C3%A9_de_Egipto</link>
+      <guid isPermaLink="true">https://es.wikipedia.org/wiki/Jos%C3%A9_de_Egipto</guid>
+      <enclosure url="http://iptvcanales.com/xw/peliculas.php?movie=003" length="" type="" />
+      <description><![CDATA[<a href="http://i.imgur.com/wCIhhAJ.png"><img style="WIDTH: 393px; HEIGHT: 148px" src="http://i.imgur.com/wCIhhAJ.png" width=437 height=140></a>&nbsp; 
+<p><U><FONT color=#0066cc><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_de_Egipto">https://es.wikipedia.org/wiki/Jos%C3%A9_de_Egipto</a></FONT></U><a href="http://en.wikipedia.org/wiki/Shazzan"></a></p>]]></description>
     </item>
   </channel>
 </rss>
