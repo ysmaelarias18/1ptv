@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>tu1star iptv</title>
+    <link>tu1star</link>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>Enlace</title>
+      <pubDate>Fri, 30 Dec 2016 09:05:24 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?sd=10&amp;rebase=on" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Discovery en Español</title>
+      <pubDate>Fri, 30 Dec 2016 09:00:17 -0400</pubDate>
+      <link>
+http://</link>
+      <enclosure url="&#xA;http://sjc-uhls-proxy06.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=17248101&amp;stream=1&amp;connectionId=oldurl-c9fb172754bf871584607e4c529840ed9425d77d&amp;group=iphone&#xA;" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>fox</title>
+      <pubDate>Fri, 30 Dec 2016 08:57:02 -0400</pubDate>
+      <enclosure url="http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Enlace Juvenil  2</title>
+      <pubDate>Fri, 30 Dec 2016 08:55:33 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Enlace Juvenil</title>
+      <pubDate>Fri, 30 Dec 2016 08:55:23 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TBN Enlace2</title>
+      <pubDate>Fri, 30 Dec 2016 08:54:58 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TBN Enlace</title>
+      <pubDate>Fri, 30 Dec 2016 08:52:55 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>t Enlace Juvenil</title>
+      <pubDate>Fri, 30 Dec 2016 08:50:34 -0400</pubDate>
+      <enclosure url="http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>The Edge</title>
+      <pubDate>Fri, 30 Dec 2016 08:49:11 -0400</pubDate>
+      <link>The Edge</link>
+      <enclosure url="http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Canal de las estrellas 2</title>
+      <pubDate>Fri, 30 Dec 2016 08:47:06 -0400</pubDate>
+      <enclosure url="http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 196px; HEIGHT: 141px" src="http://www.bonsai3.com/newsite/img/branding/estrellas-fdo.png" width=232 height=415></p>]]></description>
+    </item>
+    <item>
+      <title>Canal de las estrellas HD</title>
+      <pubDate>Fri, 30 Dec 2016 08:41:52 -0400</pubDate>
+      <link>https://es.wikipedia.org/wiki/Inter_Satelital_Bolivia</link>
+      <enclosure url="http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 196px; HEIGHT: 141px" src="http://www.bonsai3.com/newsite/img/branding/estrellas-fdo.png" width=232 height=415></p>]]></description>
+    </item>
+  </channel>
+</rss>
