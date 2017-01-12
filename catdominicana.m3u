@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,tvg-logo="paypal.png",[COLOR orange][B]» » Donaciones Paypal: catnewstecno@gmail.com « «[/B][/COLOR]
+http://www.catnewstecno.com
+
+
+#EXTINF:-1,tvg-logo="dominicana.png" tvg-id= group-title=DOMINICANA,[COLOR yellow]» » CANALES DOMINICANA « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,tvg-logo="teleantillas.png", Teleantillas 2 HD 
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="telesistema.png", Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:-1,tvg-logo="colorvision.png", Color Vision
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8 
+
+#EXTINF:-1,tvg-logo="cdn.png", CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="antena latina.png", Antena Latina
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo="paypal.png", [COLOR orange][B]»Donaciones Paypal: catnewstecno«[/B][/COLOR]
+http://www.catnewstecno.com
+
+#EXTM3U
+#EXTINF:-1,tvg-logo="catnewstecno.png", [COLOR orange][B][UPPERCASE]»catnewstecno«[/UPPERCASE][/B][/COLOR]
+http://www.catnewstecno.com
+
