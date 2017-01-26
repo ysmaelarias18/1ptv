@@ -115,9 +115,30 @@ http://premium.exabytetv.info/HLSST/365/365-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,"HBO Family Latino"tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_family_west.png.300x300_q85.png"
 http://premium.exabytetv.info/HLSST/449/449-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
+#EXTINF:-1,"HBO Latino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+http://premium.exabytetv.info/HLSST/385/385-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
+http://premium.exabytetv.info/HLSST/453/453-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,"HBO Plus Oeste"tvg-logo="http://4.bp.blogspot.com/-9teXYodxxmg/Vohxn6Yi5WI/AAAAAAAAALA/cJR7e5v34Kg/s1600/HBO%2BPlus%2Blogo.png"
+http://premium.exabytetv.info/HLSST/369/369-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Max Latino"tvg-logo="https://sc.dish.com/shared/images/station-logos/max-l.png"
+http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+
 
 
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
