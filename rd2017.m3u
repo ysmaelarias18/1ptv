@@ -70,13 +70,11 @@ rtsp://qs1.distream.net:2106/vtv_str/canal8
 #EXTINF:-1,"Senales TV R. Dominicana" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png"
 http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
 
-#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="
-http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
 
-#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="
-http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
 http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 
 #EXTINF:-1,"Yuna Vision Canal 10 R. Dominicana"tvg-logo="http://yunavision.com/images/yuna2sm.png"
