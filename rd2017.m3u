@@ -24,14 +24,13 @@ http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
  http://mek6.mekstream.com/telesistema/live/playlist.m3u8
 
 
-#EXTINF:-1,"TeleCentro 13 R. Dominicana" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+#EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
 http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
 
 #EXTINF:-1,"Digital 15 R. Dominicana" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
 http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
 
-#EXTINF:-1,"Canal 25 Santiago R. Dominicana
-" tvg-logo="http://4.bp.blogspot.com/-wNsl3LjdjK4/Vb7NWWgxeyI/AAAAAAAASoY/0s-2zuY8y3Q/s320/Canal%2B25%2BSantiago.jpg"
+#EXTINF:-1,"Canal 25 Santiago R. Dominicana"tvg-logo="http://4.bp.blogspot.com/-wNsl3LjdjK4/Vb7NWWgxeyI/AAAAAAAASoY/0s-2zuY8y3Q/s320/Canal%2B25%2BSantiago.jpg"
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
 #EXTINF:-1,"TELEUNIVERSO R. Dominicana" tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
