@@ -13,8 +13,7 @@ http://216.24.196.40:1935/live/canal4/playlist.m3u8
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 
-#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-uwgbmvdbt_b298304_4673.ts
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-uwgbmvdbt_b298304_4673.ts
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
 
  #EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
