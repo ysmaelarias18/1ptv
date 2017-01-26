@@ -2,12 +2,12 @@
 #EXTINF:-1,"Teleantillas 2 R. Dominicana" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
  
- Teleantillas 2 R. Dominicana http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png
+
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 
-#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="
-http://canal4rd.com/portada/images/logo-final5.jpg"
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="https://pbs.twimg.com/profile_images/2479062181/vp9rw60i7wvug8v6hdj8_400x400.jpeg"
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
@@ -48,103 +48,67 @@ http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 #EXTINF:-1,"CDN Sportmax R. Dominicana" tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  XTREMO CHANNEL REP DOMINICANA
-http://vivotvhd.com/wp-content/uploads/bfi_thumb/xtremo-2zh33sgu336osmnb706lts.png
+#EXTINF:-1,"XTREMO CHANNEL REP DOMINICANA" tvg-logo="http://www.xtremovision.com/images/xtremo_logo2_.png"
 http://ss9.domint.net:1970/x_str/xtremo/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Microvision10(La Vega)R. Dominicana
-http://www.microvision.com.do/logo-micro-10-.png
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana" tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
 http://stream2.livestreamingservices.com:1935/tvpasionhd/tvpasionhd/playlist.m3u8
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana 2" tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
 http://ss8.domint.net:2102/mvm_str/microvision/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-Super Canal 33 R. Dominicana
-https://musicacinetv.files.wordpress.com/2010/12/supercanal33.jpg
+#EXTINF:-1,"
+Super Canal 33 R. Dominicana" tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Maimon Tv R. Dominicana
-http://www.dominicaninternet.com/images/player/maimon_logo_clear_tv_page.png
+#EXTINF:-1,"Maimon Tv R. Dominicana" tvg-logo="http://www.dominicaninternet.com/images/player/maimon_logo_clear_tv_page.png"
 rtsp://ss9.domint.net:1990/mtv_str/maimon
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Telecanal 16 R. Dominicana
-http://www.freeetv.com/images/reydddd/telecanal16.jpg
+#EXTINF:-1,"Telecanal 16 R. Dominicana" tvg-logo="http://www.freeetv.com/images/reydddd/telecanal16.jpg"
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Vegateve Canal 12 R. Dominicana
-http://emisoradominicana.net/television/wp-content/uploads/2015/06/ame-47.jpg
+#EXTINF:-1,"Vegateve Canal 12 R. Dominicana" tvg-logo="http://vegateve.com/imagen/VEGATEVE.fw.png"
 rtsp://qs1.distream.net:2106/vtv_str/canal8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Senales TV R. Dominicana
-http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png
+#EXTINF:-1,"Senales TV R. Dominicana" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png"
 http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)
-http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)" tvg-logo="
+http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+
+
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)" tvg-logo="
+http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
 http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Yuna Vision Canal 10 R. Dominicana
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0VBljew1R13cKo4aKjk4WxDcOaVV8p6MdRqpHylZP9qpbtWk
+#EXTINF:-1,"Yuna Vision Canal 10 R. Dominicana" tvg-logo="http://yunavision.com/images/yuna2sm.png"
 http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Super TV 55 Santiago R. Dominicana
-https://4.bp.blogspot.com/-BMPimU_3pYQ/V2ZHJpo2mKI/AAAAAAAAASA/j_3I8dATn3IFNnId06Eyj7LL76XzlrCxQCLcB/s1600/super%2Btv%2B55.png
+#EXTINF:-1,"Super TV 55 Santiago R. Dominicana" tvg-logo="http://www.supertv55.tv/images/logo.png"
 http://ss9.domint.net:2022/stv_str/mp4:tv55/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  CANCA TV ONLINE
-https://www.fdgate.com/photo/mini-tv-canca-32hwe6300-am76-32-inch-lcd-chuangjia-flat-panel-tv-network-led-32inch-tv-pk-xiaomi-3s-xiaomi-2s-free-dhl.jpghttps://www.fdgate.com/photo/mini-tv-canca-32hwe6300-am76-32-inch-lcd-chuangjia-flat-panel-tv-network-led-32inch-tv-pk-xiaomi-3s-xiaomi-2s-free-dhl.jpg
+#EXTINF:-1,"CANCA TV ONLINE" tvg-logo="https://sc02.alicdn.com/kf/HTB1NgFhKVXXXXXzaXXXq6xXFXXX1/19-inch-BOE-Panel-1366-768-Resolution.jpg_350x350.jpg"
 http://servicioamerica.net:1935/8026/8026/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Vallevisoin Canal 10 Republica Dominicana
-https://midnightjester.files.wordpress.com/2006/12/sex-sign-work-in-progress.jpg?w=223&h=223
+#EXTINF:-1,"Vallevisoin Canal 10(R. Dominicana)" tvg-logo="http://www.multicablemedios.com/images/Canal%2010%20copia%202.png"
 http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Platinium TV Canal 50 (R. Dominicana)
-http://1.bp.blogspot.com/-UY4XLA9W0HE/VRed0kD_SzI/AAAAAAAABR4/T3gjEW5LbWY/s1600/platinium-tv.jpg
+#EXTINF:-1,"
+  Platinium TV Canal 50 (R. Dominicana)" tvg-logo="http://platiniumtv.com/wp/wp-content/uploads/2015/10/cropped-Platinium.png"
 http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  My TV Canal 24 Republica Dominicana
-http://canalesdominicanosenvivo.com/wp-content/uploads/2015/07/my-tv-canal-24.jpg
+#EXTINF:-1," My TV Canal 24 R. Dominicana" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/08/my-tv-canal-24-360x240.jpg"
 http://newyorkstream.ddns.net:1935/mytv//mytv/playlist.m3u8
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  La Voz de Maria (R. Dominicana)
-https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)" tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://cld01.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)" tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/plain/uhs/4/chunk_1484186657_2de330badd.flv
 
-#EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
-
-  Bonao Tv
-http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/BOnao-TV.jpg
+#EXTINF:-1,"Bonao Tv" tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
 #EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
@@ -154,3 +118,6 @@ http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 #EXTINF:-1,"BBC News" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 
   Univision USA
+
+#EXTINF:-1,"cartoon network" tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+
