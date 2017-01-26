@@ -1,6 +1,4 @@
-#EXTM3U 
-#EXTINF:-1 
-      Canales EnVivo-RD LOCALES
+#EXTM3U       Canales EnVivo-RD LOCALES
 #EXTINF:-1,"Teleantillas 2 R. Dominicana" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
  
@@ -8,32 +6,25 @@ http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 
-
-  CERTV Canal 4 R. Dominicana
-http://canal4rd.com/portada/images/logo-final5.jpg
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="
+http://canal4rd.com/portada/images/logo-final5.jpg"
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-  Telemicro 5 R. Dominicana
-http://vignette4.wikia.nocookie.net/doblaje/images/f/f4/Telemicro-5-Logo.jpg/revision/latest?cb=20151206210113&path-prefix=es
-
+#EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 
-  Antena Latina 7 R. Dominicana
-http://www.antena7.com.do/android-chrome-192x192.png
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-uwgbmvdbt_b298304_4673.ts
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
 
-  Color Vision 9 R. Dominicana
-http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png
-http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+ #EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+ http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
 
-  Telesistemas 11 R. Dominicana
-https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png
-http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+ #EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+ http://mek6.mekstream.com/telesistema/live/playlist.m3u8
 
 
-  TeleCentro 13 R. Dominicana
-http://tvonline.com.do/images/sobipro/entries/18/img_telecentro-13.jpg
+#EXTINF:-1,"TeleCentro 13 R. Dominicana" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
 http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
 
   Digital 15 R. Dominicana
