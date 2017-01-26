@@ -1,13 +1,13 @@
 #EXTM3U       Canales EnVivo-RD LOCALES
-#EXTINF:-1,"Teleantillas 2 R. Dominicana" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+#EXTINF:-1,"Teleantillas 2 R. Dominicana"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
  
 
-#EXTINF:-1,"Teleantillas 2 R. Dominicana 2" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 
-#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
@@ -27,32 +27,31 @@ http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
 #EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
 http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
 
-#EXTINF:-1,"Digital 15 R. Dominicana" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+#EXTINF:-1,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
 http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
 
 #EXTINF:-1,"Canal 25 Santiago R. Dominicana"tvg-logo="http://4.bp.blogspot.com/-wNsl3LjdjK4/Vb7NWWgxeyI/AAAAAAAASoY/0s-2zuY8y3Q/s320/Canal%2B25%2BSantiago.jpg"
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
-#EXTINF:-1,"TELEUNIVERSO R. Dominicana" tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+#EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
 
-#EXTINF:-1,"Telenord 10 R. Dominicana" tvg-logo="
+#EXTINF:-1,"Telenord 10 R. Dominicana"tvg-logo="
 http://vivotvhd.com/wp-content/uploads/bfi_thumb/canal10-telenord-2zghohcyjc5gnyst30nq4g.png
-st30nq4g.png"
 rtsp://newyorkstream.ddns.net:1935/telenord10/telenord10
 
-#EXTINF:-1,"CDN 37 R. Dominicana" tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
 http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 
-#EXTINF:-1,"CDN Sportmax R. Dominicana" tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+#EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
-#EXTINF:-1,"XTREMO CHANNEL REP DOMINICANA" tvg-logo="http://www.xtremovision.com/images/xtremo_logo2_.png"
+#EXTINF:-1,"XTREMO CHANNEL REP DOMINICANA"tvg-logo="http://www.xtremovision.com/images/xtremo_logo2_.png"
 http://ss9.domint.net:1970/x_str/xtremo/playlist.m3u8
 
-#EXTINF:-1,"Microvision10(La Vega)R. Dominicana" tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
 http://stream2.livestreamingservices.com:1935/tvpasionhd/tvpasionhd/playlist.m3u8
-#EXTINF:-1,"Microvision10(La Vega)R. Dominicana 2" tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana 2"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
 http://ss8.domint.net:2102/mvm_str/microvision/playlist.m3u8
 
 #EXTINF:-1,"
