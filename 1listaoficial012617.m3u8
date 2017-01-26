@@ -1,0 +1,678 @@
+﻿#EXTM3U
+
+♦♦♦♦♦♦♦♦♦♦♦♦ LISTA VIP START ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ma9BiqP.png" group-title="" pltv-subgroup="Portugues", Att 01/2017
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ma9BiqP.png" group-title="" pltv-subgroup="Portugues", Rev 21/01/2017
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ma9BiqP.png" group-title="" pltv-subgroup="Portugues", www.tvonlinemaxhd.com
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ BBB 17 VIP PREMIUM ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="BBB" pltv-subgroup="Portugues", BBB 17 CAM 1
+http://74.86.118.234:1935/live/cam3%20%20%20%20%20%20%20%20%20%20bbb%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bbb17%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2017/chunklist_w1593516600.m3u8
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="BBB" pltv-subgroup="Portugues",BBB 17 CAM 2
+http://37.77.2.234:1935/live/cam4%20%20%20%20%20%20%20%20%20%20bbb%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bbb17%20%20%20%20%20%20%20%20%20%204%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2017/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="BBB" pltv-subgroup="Portugues",BBB 17 CAM 3
+http://208.75.225.28:1935/live/cam1%20%20%20%20%20%20%20%20%20%20bbb%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bbb17%20%20%20%20%20%20%20%20%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2017/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="" pltv-subgroup="Portugues",BBB 17 CAM 4
+http://208.75.225.28:1935/live/cam1%20%20%20%20%20%20%20%20%20%20bbb%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bbb17%20%20%20%20%20%20%20%20%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2017/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="BBB" pltv-subgroup="Portugues",BBB 17 CAM 5
+http://208.75.225.28:1935/live/cam1%20%20%20%20%20%20%20%20%20%20bbb%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bbb17%20%20%20%20%20%20%20%20%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2017/chunklist.m3u8
+
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ ABERTOS ♦♦♦♦♦♦♦♦♦♦♦♦
+
+#EXTINF:-1 tvg-id="Globo - São Paulo" tvg-name="Globo" tvg-logo="" group-title="Canais abertos",Globo SP
+http://198.255.76.34:8080/globo/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Globo 02 SD
+http://wse2.transmissaodigital.com:1935/redecanaisglobo/redecanaisglobo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Globo 03 (Ocasional) 
+http://91.212.150.128:8081/edge/globo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDE3IDU6MjM6MDUgQU0maGFzaF92YWx1ZT1SOUpyZ0x0Q3BYNUh0WlM1bHBCenNnPT0mdmFsaWRtaW51dGVzPTU=
+
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 01 HD
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 02 SD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 03 PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 04 RE SD
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 05 CA SD
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 06 PB HD
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Sbt 07 MP HD
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede TV 01 SD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede TV 02 HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede TV 03 HD
+rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Brasil HQ
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Brasil SD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Cultura" tvg-name="Tv Cultura" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Tv Cultura HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Cultura" tvg-name="Tv Cultura" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Tv Cultura SD
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Record PR HD
+http://caikron.com.br:1935/ricpr/curitiba.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Record ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Band SD
+
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Band 02 SD
+
+
+#EXTINF:-1 tvg-id="Tv Gazeta" tvg-name="Tv Gazeta" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Tv Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="Tv Gazeta" tvg-name="Tv Gazeta" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Tv Gazeta SD
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Diario" tvg-name="TV Diario" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", TV Diario HD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Camara" tvg-name="TV Camara" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", TV Camara HD
+
+
+#EXTINF:-1 tvg-id="Rede Familia" tvg-name="Rede Familia" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Familia HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Familia" tvg-name="Rede Familia" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Familia SD
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Futura HD
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Futura SD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Vida SD
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Rede Vida HQ
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", Canção Nova HD
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="" group-title="Canais abertos" pltv-subgroup="Portugues", TV Novo Tempo 
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ DOCUMENTARIOS ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="Nasa TV" tvg-name="Nasa TV" tvg-logo="" group-title="Documentarios" pltv-subgroup="Portugues", Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery channel" tvg-logo="" group-title="Documentarios" pltv-subgroup="Portugues", Discovery channel SD
+http://187.49.86.238:10000/bysid/120
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="" group-title="Documentarios" pltv-subgroup="Portugues", Fish TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arte 1 " tvg-logo="" group-title="Documentarios",Arte 1
+
+
+#EXTINF:-1 tvg-id="Fox Life " tvg-logo="" group-title="Documentarios",Fox Life
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/43.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="A&amp;E " tvg-logo="" group-title="Documentarios",A&E
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/41.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="TLC " tvg-logo="" group-title="Documentarios",TLC
+http://213.188.51.185:9981/play/a00m?ListaVIP
+
+#EXTINF:-1 tvg-id="E! Entertainment Television " tvg-logo="" group-title="Documentarios",E! Entertainment
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/42.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Animal Planet " tvg-logo="" group-title="Documentarios",Animal Planet
+
+
+#EXTINF:-1 tvg-id="Nat Geo " tvg-logo="" group-title="Documentarios",Nat Geo
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/45.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="History Channel " tvg-logo="" group-title="Documentarios",History
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/52.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="H2 " tvg-logo="" group-title="Documentarios",H2
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/53.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Channel " tvg-logo="" group-title="Documentarios",Discovery
+http://187.49.86.238:10000/bysid/120?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Turbo " tvg-logo="" group-title="Documentarios",Discovery Turbo
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/49.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Investigação Discovery " tvg-logo="" group-title="Documentarios",Discovery ID
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/47.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Science " tvg-logo="" group-title="Documentarios",Discovery Science
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/54.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Home &amp; Health " tvg-logo="" group-title="Documentarios",Discovery Home & Health
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/48.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Civilization " tvg-logo="" group-title="Documentarios",Discovery Civilization
+
+
+
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ FILMES E SERIES ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Telecine Premium SD 
+http://187.49.86.238:10000/bysid/61 
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Telecine Touch SD 
+http://187.49.86.238:10000/bysid/63
+
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Paramount Pictures SD
+http://187.49.86.238:10000/bysid/49
+
+#EXTINF:-1 tvg-id="Chaves" tvg-name="Chaves" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Clube do Chaves
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine Cult" tvg-name="Cine Cult" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Cine 01 - Cult
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine Fun" tvg-name="Cine Fun" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Cine 02 - Fun
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-id="Cine Premium" tvg-name="Cine Premium" tvg-logo="" group-title="Filmes e Séries" pltv-subgroup="Portugues", Cine 03 - Premium
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine 04 
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine 05 
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="HBO " tvg-logo="" group-title="Filmes e Séries",HBO
+http://187.49.86.238:10000/bysid/69?ListaVIP
+
+#EXTINF:-1 tvg-id="HBO 2 " tvg-logo="" group-title="Filmes e Séries",HBO 2
+
+
+#EXTINF:-1 tvg-id="HBO Plus " tvg-logo="" group-title="Filmes e Séries",HBO Plus
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/18.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="HBO Signature " tvg-logo="" group-title="Filmes e Séries",HBO Signature
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/16.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="HBO Family " tvg-logo="" group-title="Filmes e Séries",HBO Family
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/17.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Max " tvg-logo="" group-title="Filmes e Séries",Max
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/23.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Max Prime " tvg-logo="" group-title="Filmes e Séries",Max Prime
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/24.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Max up HD " tvg-logo="" group-title="Filmes e Séries",Max Up
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/25.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Cinemax " tvg-logo="" group-title="Filmes e Séries",Cinemax
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/31.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Telecine Action " tvg-logo="" group-title="Filmes e Séries",Telecine Action
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/9.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Telecine Premium " tvg-logo="" group-title="Filmes e Séries",Telecine Premium
+http://187.49.86.238:10000/bysid/61?ListaVIP
+
+#EXTINF:-1 tvg-id="Telecine Touch " tvg-logo="" group-title="Filmes e Séries",Telecine Touch
+http://187.49.86.238:10000/bysid/63?ListaVIP
+
+#EXTINF:-1 tvg-id="Telecine Fun " tvg-logo="" group-title="Filmes e Séries",Telecine Fun
+
+
+#EXTINF:-1 tvg-id="Telecine Pipoca " tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca
+
+
+#EXTINF:-1 tvg-id="Telecine Cult " tvg-logo="" group-title="Filmes e Séries",Telecine Cult
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/13.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Max Prime *e " tvg-logo="" group-title="Filmes e Séries",RBX
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Lifetime " tvg-logo="" group-title="Filmes e Séries",Lifetime
+
+
+#EXTINF:-1 tvg-id="i-Sat " tvg-logo="" group-title="Filmes e Séries",I sat
+
+
+#EXTINF:-1 tvg-id="AXN " tvg-logo="" group-title="Filmes e Séries",AXN
+
+
+#EXTINF:-1 tvg-id="Fox " tvg-logo="" group-title="Filmes e Séries",Fox
+http://169.57.142.110:25461/live/YL6wdqDmAe/JXrT1V9qwq/103.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="FX " tvg-logo="" group-title="Filmes e Séries",FX
+
+
+#EXTINF:-1 tvg-id="Megapix " tvg-logo="" group-title="Filmes e Séries",Megapix
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/19.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="SPACE " tvg-logo="" group-title="Filmes e Séries",Space
+
+
+#EXTINF:-1 tvg-id="TBS " tvg-logo="" group-title="Filmes e Séries",TBS
+
+
+#EXTINF:-1 tvg-id="Comedy Central " tvg-logo="" group-title="Filmes e Séries",Comedy Central
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/111.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="TruTV " tvg-logo="" group-title="Filmes e Séries",TruTV
+
+
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies " tvg-logo="" group-title="Filmes e Séries",TCM
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/35.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="SyFy " tvg-logo="" group-title="Filmes e Séries",Syfy
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/102.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Studio Universal " tvg-logo="" group-title="Filmes e Séries",Studio Universal
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/32.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Sony Entertainment TV " tvg-logo="" group-title="Filmes e Séries",Sony
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/28.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="TNT Séries " tvg-logo="" group-title="Filmes e Séries",TNT Séries
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/101.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="TNT " tvg-logo="" group-title="Filmes e Séries",TNT
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/30.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Universal " tvg-logo="" group-title="Filmes e Séries",Universal
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/22.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Paramount Channel " tvg-logo="" group-title="Filmes e Séries",Paramount
+http://187.49.86.238:10000/bysid/49?ListaVIP
+
+#EXTINF:-1 tvg-id="Warner Channel " tvg-logo="" group-title="Filmes e Séries",Warner
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/26.m3u8?ListaVIP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ INFANTIL♦♦♦♦♦♦♦♦♦♦♦♦ 
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="" group-title="Infantil" pltv-subgroup="Portugues", Gloob
+ http://187.49.86.238:10000/bysid/94
+
+#EXTINF:-1 tvg-id="TV Rá-tim-bum " tvg-logo="" group-title="Infantil",TV Rá-Tim-Bum
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/586.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Boomerang " tvg-logo="" group-title="Infantil",Boomerang
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/89.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Tooncast " tvg-logo="" group-title="Infantil",Tooncast
+http://169.57.142.110:25461/live/6oHdLlrWdf/ecIgaO6mws/11.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-logo="" group-title="Infantil",Nickelodeon
+http://wse2.transmissaodigital.com:1935/redecanaisnick/redecanaisnick/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Nick Jr. " tvg-logo="" group-title="Infantil",Nick Jr.
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/87.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Gloob " tvg-logo="" group-title="Infantil",Gloob
+http://187.49.86.238:10000/bysid/94?ListaVIP
+
+#EXTINF:-1 tvg-id="Cartoon Network " tvg-logo="" group-title="Infantil",Cartoon Network
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/82.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Disney XD " tvg-logo="" group-title="Infantil",Disney XD
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/85.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Discovery Kids " tvg-logo="" group-title="Infantil",Discovery Kids
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/88.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Disney Junior " tvg-logo="" group-title="Infantil",Disney Junior
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/84.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Disney Channel HD " tvg-logo="" group-title="Infantil",Disney Channel
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/86.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" group-title="Infantil" pltv-subgroup="Portugues", Tooncast [NOVO] SD
+http://169.57.142.110:25461/live/6oHdLlrWdf/ecIgaO6mws/11.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil" pltv-subgroup="Portugues", Nickelodeon SD
+http://wse2.transmissaodigital.com:1935/redecanaisnick/redecanaisnick/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ ESPORTES ♦♦♦♦♦♦♦♦♦♦♦♦
+
+#EXTINF:-1 tvg-id="All Sports" tvg-name="All Sports" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", All Sports BR HD
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Combate HD
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8?h=0401749423785012345678914383837859876543210q88Q5ilA2rWunikfHMtmcg&k=html5&u=&a=A
+
+#EXTINF:-1 tvg-id="PremiereFC" group-title="Esportes",Premiere Clubes
+http://213.188.51.185:9981/play/a00s?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 2
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/71.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 3
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/72.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 4
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/73.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 5
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/74.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 6
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/75.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 7
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/76.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 8
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/77.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 9
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/78.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Fish TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Fish TV HD
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",UFC Network
+http://190.57.234.164/V3/6/1.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="ESPN Brasil " tvg-logo="" group-title="Esportes",ESPN Brasil
+https://content-auso2.uplynk.com/channel/940336a41e444ef497fcb9f6d11f243a.m3u8?ct=c&oid=d09b16c953aa40c98dd8c513526aca5a&eid=n20a&ad.caid=n20a&tc=1&exp=1484779838&rn=1307548019&sig=6bb22ddd31a78295d0170a78fbde21896207679e27bc68371be82f43b34376fe&pbs=dedb2531ea0d47cf80d1d6ad23cd1b9f
+
+#EXTINF:-1 tvg-id="ESPN International " tvg-logo="" group-title="Esportes",ESPN
+https://content-auso2.uplynk.com/channel/f4457f09c9524e5d8006e54964066ce7.m3u8?ct=c&oid=d09b16c953aa40c98dd8c513526aca5a&eid=n19a&ad.caid=n19a&tc=1&exp=1484780131&rn=1663878198&sig=10595d9eead2cc578bb8e48f18f65e2e3283934e9bcd1f6fda71639f88e6fae8&pbs=78521b6f123e4017b634795db8cdb806
+
+#EXTINF:-1 tvg-id="ESPN+ " tvg-logo="" group-title="Esportes",ESPN+
+https://content-auso2.uplynk.com/channel/afd13888383744f584e75b3a0c76410e.m3u8?ct=c&oid=d09b16c953aa40c98dd8c513526aca5a&eid=n199a&ad.caid=n199a&tc=1&exp=1484780504&rn=341404512&sig=8dc6128cc122e045988350a4eca80dcd63f05891681dfb6c32afff7110ba87c3&pbs=a0dd7567388b47aa9389003911b58c41
+
+#EXTINF:-1 tvg-id="Esporte Interativo " tvg-logo="" group-title="Esportes",Esporte Interativo
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="EI Maxx " tvg-logo="" group-title="Esportes",EI Max
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="EI Maxx 2 " tvg-logo="" group-title="Esportes",EI Max 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="WooHoo " tvg-logo="" group-title="Esportes",Woohoo
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/96.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Canal Off " tvg-logo="" group-title="Esportes",Off
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/62.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Band Esportes " tvg-logo="" group-title="Esportes",Band Sports
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Combate " tvg-logo="" group-title="Esportes",Combate
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/80.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Combate " tvg-logo="" group-title="Esportes",Combate HD
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8?h=0401749423785012345678914383837859876543210q88Q5ilA2rWunikfHMtmcg&k=html5&u=&a=A
+
+#EXTINF:-1 tvg-id="SporTV " tvg-logo="" group-title="Esportes",SporTV
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/55.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="SporTV 2 " tvg-logo="" group-title="Esportes",SporTV 2
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/56.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="SporTV 3 " tvg-logo="" group-title="Esportes",SporTV 3
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/57.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Esporte Interativo " tvg-logo="" group-title="Esportes",TV Esporte Mais
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/67.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Fox Sports " tvg-logo="" group-title="Esportes",Fox Sports
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/63.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Fox Sports 2 " tvg-logo="" group-title="Esportes",Fox Sports 2
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/64.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",All Sports TV
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Band Sport" tvg-name="Band Sport" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Band Sport HQ
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Esporte Interativo HD
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-id="Ei Max" tvg-name="Ei Max" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Ei Max HD
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-id="Ei Maxx 2" tvg-name="Ei Maxx 2" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Ei Maxx 2 HD
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-id="Premiere FC" tvg-name="Premiere FC" tvg-logo="" group-title="Esportes" pltv-subgroup="Portugues", Premiere FC SD
+http://213.188.51.185:9981/play/a00s
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="" group-title="Esportes", ESPN BRASIL
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=25YGOHhDTId75WaYIaD22w
+
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN+" tvg-logo="" group-title="Esportes", ESPN+
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=25YGOHhDTId75WaYIaD22w
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Esportes", ESPN
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=25YGOHhDTId75WaYIaD22w
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ NOTICIAS  ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="Bh News" tvg-name="Bh News" tvg-logo="" group-title="Notícias" pltv-subgroup="Portugues", Bh News
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="" group-title="Notícias" pltv-subgroup="Portugues", Globo News 01 HD
+http://zialcobra.dyndns.org:8000/live/darius/darius/283.ts
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="" group-title="Notícias" pltv-subgroup="Portugues", Globo News 02 HD
+http://163.172.24.207/loadbalance/canal-globo-news-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="" group-title="Notícias" pltv-subgroup="Portugues", Record News ES HD
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="" group-title="Notícias" pltv-subgroup="Portugues", Record News TO SD
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News " tvg-logo="" group-title="Notícias",Record News
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Record News " tvg-logo="" group-title="Notícias",Record News HD
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Globo News " tvg-logo="" group-title="Notícias",Globo News
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/68.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Band News " tvg-logo="" group-title="Notícias",Band News
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/70.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",GV News
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",TV Ponta Negra News
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?ListaVIP
+
+
+♦♦♦♦♦♦♦♦♦♦♦♦ Musicas & VARIEDADES ♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:-1 tvg-id="+Musicas e Variedades " tvg-logo="" group-title="Musicas e Variedades",+Musicas e Variedades
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/108.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Canal GNT " tvg-logo="" group-title="Musicas e Variedades",GNT
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/40.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Viva " tvg-logo="" group-title="Musicas e Variedades",Viva
+http://169.57.142.110:25461/live/gCvB1pCtMo/MzAMDs5CeZ/79.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Canal Brasil " tvg-logo="" group-title="Musicas e Variedades",Canal Brasil
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/112.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="VH1 HD " tvg-logo="" group-title="Musicas e Variedades",VH1
+http://213.188.51.185:9981/play/a00o?ListaVIP
+
+#EXTINF:-1 tvg-id="VH1 Mega Hits " tvg-logo="" group-title="Musicas e Variedades",VH1 Mega Hits
+http://213.188.51.185:9981/play/a018?ListaVIP
+
+#EXTINF:-1 tvg-id="Mix TV " tvg-logo="" group-title="Musicas e Variedades",Mix TV
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Play TV " tvg-logo="" group-title="Musicas e Variedades",Play TV
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/573.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Bis HD " tvg-logo="" group-title="Musicas e Variedades",Bis
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/37.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="Multishow " tvg-logo="" group-title="Musicas e Variedades",Multishow
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/39.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-id="MTV Brasil " tvg-logo="" group-title="Musicas e Variedades",MTV
+http://192.99.148.73:8080/live/CristianoIvan/moveplay.tv/38.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",MTV Live
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musicas e Variedades",Milk TV
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/playlist.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",Atomic
+rtmp://5.154.185.153/live/live.flv?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",DJ Hits
+http://www.djing.com/tv/04.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",Hot Music
+http://wow01.105.net/live/rmc1/playlist.m3u?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",Eska
+rtmp://stream.smcloud.net/live/eskatv?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?ListaVIP
+
+#EXTINF:-1 tvg-logo="" group-title="Musicas e Variedades",Kiss
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?ListaVIP
+
+#EXTINF:-1 tvg-id="Mix Tv" tvg-name="Mix Tv" tvg-logo="" group-title="Musicas e Variedades" pltv-subgroup="Portugues", Mix Tv
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+
+ ♦♦♦♦♦♦♦♦♦♦♦♦ PORTUGAL  ♦♦♦♦♦♦♦♦♦♦♦♦
+ #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="Portugal" pltv-subgroup="Portugues", AXN (Legendado PT)
+http://89.109.65.126:4022/udp/239.251.0.64:5501/
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Portugal" pltv-subgroup="Portugues", TLC HD (Legendado PT)
+http://213.188.51.185:9981/play/a00m
+
+#EXTINF:-1 tvg-id="Fox Movie" tvg-name="Fox Movie" tvg-logo="" group-title="Portugal" pltv-subgroup="Portugues", Fox Movie HD (Legendado PT)
+http://213.188.51.185:9981/play/a00p
+
+#EXTINF:-1 tvg-id="Fox Crime" tvg-name="Fox Crime" tvg-logo="" group-title="Portugal" pltv-subgroup="Portugues", Fox Crime HD (Legendado PT)
+http://213.188.51.185:9981/play/a010
+
+#EXTINF:-1 tvg-id="Mov" tvg-name="Mov" tvg-logo="" group-title="Portugal" pltv-subgroup="Portugues", Sony Mov HD (Legendado PT) 
+http://213.188.51.185:9981/play/a00d
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="" group-title="Portugal",SporTV5 (Portugal)
+http://213.188.51.185:9981/play/a008
+
+#EXTINF:-1 tvg-id="SporTV1 PT HD" tvg-name="SporTV" tvg-logo="" group-title="Portugal",SporTV1 (Portugal)
+http://213.188.51.185:9981/play/a009
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="" group-title="Portugal",SporTV + (Portugal)
+http://213.188.51.185:9981/play/a00g
+ 
+ 
+ ♦♦♦♦♦♦♦♦♦♦♦♦ ADULTOS  ♦♦♦♦♦♦♦♦♦♦♦♦
+ 
+ #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", But GO (Adulto +18)
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+
+#EXTINF:-1 tvg-id="Play +19" tvg-name="Play +19" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", Play +19 (Adulto +18)
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", Playboy Int (Adulto +18)
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", Penthouse Int (Adulto +18)
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", Sakura (Adulto +18)
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="Live Ting" tvg-name="Live Ting" tvg-logo="" group-title="+18 Adultos" pltv-subgroup="Portugues", Live Ting (Adulto +18)
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
