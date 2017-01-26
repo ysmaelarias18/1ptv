@@ -138,12 +138,19 @@ http://premium.exabytetv.info/HLSST/379/379-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"
 http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
-#EXTINF:-1,"Exabyte Movies 5" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+#EXTINF:-1," Movies 5" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
 http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
 
-#EXTINF:-1,"Exabyte Movies 4" tvg-logo="https://pbs.twimg.com/profile_images/2759665345/3adf3f46b6ef750c227b29633ac91d24_400x400.jpeg"
+#EXTINF:-1," Movies 4" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
 http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
 
+#EXTINF:-1,"Movies 3 (Terror)" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/mega_extremo/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
+#EXTINF:-1,"Movies 2 (Accción-Suspenso)" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Movies 1 (Drama-Comedia-Romance)" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
