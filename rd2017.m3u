@@ -170,3 +170,13 @@ http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=UTVEJ-1011000
 
 #EXTINF:-1,"Fox Movies" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20100323110707"
 http://premium.exabytetv.info/HLSST/463/463-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,"Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
+http://premium.exabytetv.info/HLSST/264/264-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Golden Edge" tvg-logo=http://oreox.net/images/logos-canales/61.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"Golden HD" tvg-logo="http://i2.esmas.com/golden/images/golden-hd-logo-menu.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
