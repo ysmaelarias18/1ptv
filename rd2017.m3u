@@ -7,7 +7,7 @@ http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 
-#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="https://pbs.twimg.com/profile_images/2479062181/vp9rw60i7wvug8v6hdj8_400x400.jpeg"
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana" tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
