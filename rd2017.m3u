@@ -56,17 +56,16 @@ http://stream2.livestreamingservices.com:1935/tvpasionhd/tvpasionhd/playlist.m3u
 #EXTINF:-1,"Microvision10(La Vega)R. Dominicana 2"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
 http://ss8.domint.net:2102/mvm_str/microvision/playlist.m3u8
 
-#EXTINF:-1,"
-Super Canal 33 R. Dominicana" tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+#EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
 
 #EXTINF:-1,"Maimon Tv R. Dominicana" tvg-logo="http://www.dominicaninternet.com/images/player/maimon_logo_clear_tv_page.png"
 rtsp://ss9.domint.net:1990/mtv_str/maimon
 
-#EXTINF:-1,"Telecanal 16 R. Dominicana" tvg-logo="http://www.freeetv.com/images/reydddd/telecanal16.jpg"
+#EXTINF:-1,"Telecanal 16 R. Dominicana"tvg-logo="http://www.freeetv.com/images/reydddd/telecanal16.jpg"
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 
-#EXTINF:-1,"Vegateve Canal 12 R. Dominicana" tvg-logo="http://vegateve.com/imagen/VEGATEVE.fw.png"
+#EXTINF:-1,"Vegateve Canal 12 R. Dominicana"tvg-logo="http://vegateve.com/imagen/VEGATEVE.fw.png"
 rtsp://qs1.distream.net:2106/vtv_str/canal8
 
 #EXTINF:-1,"Senales TV R. Dominicana" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png"
@@ -128,7 +127,13 @@ http://premium.exabytetv.info/HLSST/369/369-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,"Max Latino"tvg-logo="https://sc.dish.com/shared/images/station-logos/max-l.png"
 http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
-#EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,"Max Prime Este"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/53/Max_Prime_2012.png"
+http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,Max Prime Oeste"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://premium.exabytetv.info/HLSST/379/379-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,Max Up Latino"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"]
+http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
