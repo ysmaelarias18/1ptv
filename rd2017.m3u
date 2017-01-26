@@ -109,6 +109,43 @@ http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/
 #EXTINF:-1,"Bonao Tv"tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
+#EXTINF:0,Exabyte Kids                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_kids/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 1 (Drama-Comedia-Romance)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 2 (Accción-Suspenso)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 3 (Terror)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_extremo/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 4                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 5                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Golden Multiplex                       [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1035/1035-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Golden Premier 1                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/4777/4777-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Golden Premier 2                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/4772/4772-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,HBO 2 Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/365/365-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,HBO Family Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/449/449-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,HBO Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/385/385-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,HBO Plus Este                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/453/453-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,HBO Plus Oeste                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/369/369-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Max Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Max Prime Este                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Max Prime Oeste                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/379/379-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:0,Max Up Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 
   TELEMUNDO USA
