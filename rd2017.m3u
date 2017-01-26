@@ -130,10 +130,23 @@ http://premium.exabytetv.info/HLSST/381/381-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,"Max Prime Este"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/53/Max_Prime_2012.png"
 http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
-#EXTINF:-1,Max Prime Oeste"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+#EXTINF:-1,Max Prime Oeste"tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png"
 http://premium.exabytetv.info/HLSST/379/379-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
-#EXTINF:-1,Max Up Latino"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"]
+
+#EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"]
 http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,Exabyte Movies 1 (Drama-Comedia-Romance)"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,Exabyte Movies 2 (Accción-Suspenso)"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,Exabyte Movies 3 (Terror)"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://ultra.exabytetv.info/HLSVAUG/mega_extremo/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,Exabyte Movies 4 "tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,Exabyte Movies 5"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
+http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
 #EXTINF:-1,"BBC News"tvg-logo="http://mywebhost.com/iptv/icons/BBC News.png"
