@@ -50,8 +50,9 @@ http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 #EXTINF:-1,"Cartoon Network"tvg-logo="http://fr.academic.ru/pictures/frwiki/67/Cartoon_Network_2005.svg"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
 
-#EXTINF:-1,"Tooncast"tvg-logo="https://fercmartinez.files.wordpress.com/2014/07/tumblr_inline_mp2622rg4j1qz4rgp.png?w=757&h=227"
+#EXTINF:-1,"Tooncast"tvg-logo="https://fercmartinez.files.wordpress.com/2014/07/tumblr_inline_mp2622rg4j1qz4rgp.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
 #EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
