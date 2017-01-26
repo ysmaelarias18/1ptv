@@ -166,3 +166,7 @@ http://premium.exabytetv.info/HLSST/477/477-UTVEJ-101100010100101111011001100111
 
 #EXTINF:-1,"Fox Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/This_is_hor_help.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"Fox Movies" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20100323110707"
+http://premium.exabytetv.info/HLSST/463/463-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
