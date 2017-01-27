@@ -16,7 +16,7 @@ http://216.24.196.40:1935/live/canal4/playlist.m3u8
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-uwgbmvdbt_b298304_4673.ts
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
 
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
@@ -180,3 +180,24 @@ http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000
 
 #EXTINF:-1,"Golden HD" tvg-logo="http://i2.esmas.com/golden/images/golden-hd-logo-menu.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"LLUVIA DE HAMBURGUESAS  1" tvg-logo="http://cs413616.vk.me/v413616596/86d8/zn9lTp7ie38.jpg"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-uvc4dw8tj_b610304_25124.ts
+
+#EXTINF:-1,"LLUVIA DE HAMBURGUESAS  2" tvg-logo="http://2.bp.blogspot.com/-DYWOrhOrUCw/Un3-_UOd6rI/AAAAAAAASMA/rMl9-dE3Bok/s1600/lluvia+de+hamburguesas+2+poster.jpg"
+https://openload.co/stream/u0hXyJYSo20~1484441003~179.53.0.0~eMHu2hDu?mime=true
+
+#EXTINF:24/7 Action Movies",
+http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341807.ts
+
+#EXTINF:24/7 Action Movies,"
+http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341808.ts
+#EXTINF:24/7 Action Movies,"
+http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341809.ts
+#EXTINF:24/7 Action Movies,
+"http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341810.ts
+#EXTINF:24/7 Action Movies,"
+http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341811.ts
+#EXTINF:24/7 Action Movies,
+"http://192.95.33.51/hls/90ce2364e02379b96643fe4d0f2d7c25-341812.ts
