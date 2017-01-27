@@ -1,0 +1,514 @@
+#EXTM3U
+#EXTINF:0,Canales EnVivo-RD LOCALES
+C:\Users\Felix M UreÃ±a\Downloads\Canales EnVivo-RD LOCALES
+#EXTINF:0,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
+http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
+#EXTINF:0,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:0,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+#EXTINF:0,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
+#EXTINF:0,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+#EXTINF:0,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+#EXTINF:0,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:0,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+#EXTINF:0,"Canal 25 Santiago R. Dominicana"tvg-logo="http://4.bp.blogspot.com/-wNsl3LjdjK4/Vb7NWWgxeyI/AAAAAAAASoY/0s-2zuY8y3Q/s320/Canal%2B25%2BSantiago.jpg"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:0,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:0,"Telenord 10 R. Dominicana"tvg-logo="
+http://vivotvhd.com/wp-content/uploads/bfi_thumb/canal10-telenord-2zghohcyjc5gnyst30nq4g.png
+rtsp://newyorkstream.ddns.net:1935/telenord10/telenord10
+#EXTINF:0,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+#EXTINF:0,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:0,"XTREMO CHANNEL REP DOMINICANA"tvg-logo="http://www.xtremovision.com/images/xtremo_logo2_.png"
+http://ss9.domint.net:1970/x_str/xtremo/playlist.m3u8
+#EXTINF:0,"Microvision10(La Vega)R. Dominicana"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+http://stream2.livestreamingservices.com:1935/tvpasionhd/tvpasionhd/playlist.m3u8
+#EXTINF:0,"Microvision10(La Vega)R. Dominicana 2"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+http://ss8.domint.net:2102/mvm_str/microvision/playlist.m3u8
+#EXTINF:0,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:0,"Maimon Tv R. Dominicana" tvg-logo="http://www.dominicaninternet.com/images/player/maimon_logo_clear_tv_page.png"
+rtsp://ss9.domint.net:1990/mtv_str/maimon
+#EXTINF:0,"Telecanal 16 R. Dominicana"tvg-logo="http://www.freeetv.com/images/reydddd/telecanal16.jpg"
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+#EXTINF:0,"Vegateve Canal 12 R. Dominicana"tvg-logo="http://vegateve.com/imagen/VEGATEVE.fw.png"
+rtsp://qs1.distream.net:2106/vtv_str/canal8
+#EXTINF:0,"Senales TV R. Dominicana" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png"
+http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
+#EXTINF:0,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:0,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:0,"Yuna Vision Canal 10 R. Dominicana"tvg-logo="http://yunavision.com/images/yuna2sm.png"
+http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
+#EXTINF:0,"Super TV 55 Santiago R. Dominicana"tvg-logo="http://www.supertv55.tv/images/logo.png"
+http://ss9.domint.net:2022/stv_str/mp4:tv55/playlist.m3u8
+#EXTINF:0,"CANCA TV ONLINE"tvg-logo="https://sc02.alicdn.com/kf/HTB1NgFhKVXXXXXzaXXXq6xXFXXX1/19-inch-BOE-Panel-1366-768-Resolution.jpg_350x350.jpg"
+http://servicioamerica.net:1935/8026/8026/playlist.m3u8
+#EXTINF:0,"Vallevisoin Canal 10(R. Dominicana)"tvg-logo="http://www.multicablemedios.com/images/Canal%2010%20copia%202.png"
+http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
+http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
+#EXTINF:0," My TV Canal 24 R. Dominicana"tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/08/my-tv-canal-24-360x240.jpg"
+http://newyorkstream.ddns.net:1935/mytv//mytv/playlist.m3u8
+#EXTINF:0,"La Voz de Maria (R. Dominicana)"tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://cld01.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+#EXTINF:0,"La Voz de Maria (R. Dominicana)"tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/plain/uhs/4/chunk_1484186657_2de330badd.flv
+#EXTINF:0,"Bonao Tv"tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
+http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
+#EXTINF:0,== ENTRETENIMIENTO ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,A&E (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=211&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Antena 3                     [B]ExabyteTV - exabytetv.info[/B]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0,Antena 3 Internacional                     [B]ExabyteTV - exabytetv.info[/B]
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,AXN (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=213&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Az Clic (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=103&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Az Corazón (Op1)(solo se ve en MX)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix/45/3/DJBDW-1011000101111010011111011100111-ExabyteTV/exabytetv.m3u8
+#EXTINF:0,Az Mundo (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=276&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Azteca 7 (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=107&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Azteca 13 (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=113&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Azteca 13 (-30 minutos)                     [B]ExabyteTV - exabytetv.info[/B]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0,BBC Entertainment (Op1)(solo se ve en MX)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix/253/3/DJBDW-1011000101111010011111011100111-ExabyteTV/exabytetv.m3u8
+#EXTINF:0,Canal 5 HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=105&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Comedy Central (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=217&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery H&H (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=374&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Distrito Comedia (Op1)(solo se ve en MX)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix/272/3/DJBDW-1011000101111010011111011100111-ExabyteTV/exabytetv.m3u8
+#EXTINF:0,Distrito Comedia (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=272&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,E! (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=255&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,El Gourmet (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=268&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=201&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox Life (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=271&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,FX (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=209&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Gala TV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=109&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Glitz (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=270&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Hola TV (Op1)(solo se ve en MX)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix/219/3/DJBDW-1011000101111010011111011100111-ExabyteTV/exabytetv.m3u8
+#EXTINF:0,Hola TV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=219&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Las Estrellas (Op1)(solo se ve en MX)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix/102/3/DJBDW-1011000101111010011111011100111-ExabyteTV/exabytetv.m3u8
+#EXTINF:0,Las Estrellas (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=102&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Las Estrellas (México)                     [B]ExabyteTV - exabytetv.info[/B]
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0,Las Estrellas -2 Horas (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=1888&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Lifetime (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=379&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Multimedios (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=167&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Más Chic (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=221&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,NBC Universo                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/4825/4825-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,RCN Novelas Internacional                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1493/1493-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Sony (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=203&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Sun Channel                     [B]ExabyteTV - exabytetv.info[/B]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:0,SyFy (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=257&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TBS Very Funny (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=273&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Telemundo                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/10963/10963-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Telemundo  39                     [B]ExabyteTV - exabytetv.info[/B]
+http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
+#EXTINF:0,Telemundo Internacional                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/9773/9773-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,TLC (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=386&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Tlnovelas (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=275&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Trendy (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=279&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TruTV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=215&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TVE (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=651&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TV Más HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=1955&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Unicable (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=218&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,UniMas                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/gc/DJBDW-1011000101111010011111011100111-ExabyteTV/545/exabytetv.m3u8
+#EXTINF:0,Univisión                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13216/13216-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Univisión HD                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13493/13493-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Univisión Op2                     [B]ExabyteTV - exabytetv.info[/B]
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
+#EXTINF:0,Uno TV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=145&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,== INFANTILES ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Anime TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,Baby TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/317/317-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Boomerang (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Cartoon Network (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,CBeebies (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=305&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery Kids (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=303&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Disney Channel (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=312&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Disney Junior (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=308&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Disney XD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=322&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nick 2 (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=315&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nickelodeon (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=317&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nick Jr (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=310&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nick Toons (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=314&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Once Niños                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13432/13432-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Paka Paka Argentina                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/gc/DJBDW-1011000101111010011111011100111-ExabyteTV/1697/exabytetv.m3u8
+#EXTINF:0,Tateti (Argentina)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:0,TIIN (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=325&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Tooncast (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,== PELÍCULAS Y SERIES ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,AMC (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=444&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Atreseries Español                     [B]ExabyteTV - exabytetv.info[/B]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,Az Cinema (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=425&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Cinecanal (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=480&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Cinecanal+ (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=430&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Cine Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/477/477-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Cinemax (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=481&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,De Pelicula Multiplex                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13430/13430-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,De Película (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=442&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Film & Arts Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1599/1599-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox 1 Este                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/433/433-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox 1 HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=415&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox 1 Oeste                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/439/439-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox Action (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox Cinema (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=421&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox Classics (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=424&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Fox Comedy                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/461/461-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox Family                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/467/467-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox Movies                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/463/463-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fox Movies HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=417&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Golden                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/264/264-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Golden Edge (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Golden HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,I.Sat (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=495&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Paramount Channel Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/260/260-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Space (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=491&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Space HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=445&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Studio Universal (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=492&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TCM (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=496&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TNT (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=482&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TNT HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=435&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,TNT Series (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=266&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Universal Channel (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=256&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Universal HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=207&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Warner Channel                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/2499/2499-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Warner HD (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=205&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,== PREMIUM ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Exabyte Kids                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_kids/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 1 (Drama-Comedia-Romance)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 2 (Accción-Suspenso)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 3 (Terror)                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_extremo/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 4                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Exabyte Movies 5                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Golden Multiplex                       [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1035/1035-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Golden Premier 1                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/4777/4777-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Golden Premier 2                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/4772/4772-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,HBO 2 Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/365/365-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,HBO Family Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,HBO Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/385/385-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,HBO Plus Este                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/453/453-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,HBO Plus Oeste                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/369/369-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Max Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/381/381-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Max Prime Este                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/377/377-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Max Prime Oeste                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/379/379-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Max Up Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/469/469-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,== DEPORTES - SPORTS ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,UFC Network HD                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13489/13489-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,UFC Network HD (op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:0,UFC Next (UK)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/544/exabytetv.m3u8
+#EXTINF:0,Univision Deportes Network                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/11293/11293-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Univisión TDN                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1483/1483-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Versus Channel (USA)                     [B]ExabyteTV - exabytetv.info[/B]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,Win Sports (Colombia)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/gc/DJBDW-1011000101111010011111011100111-ExabyteTV/606/exabytetv.m3u8
+#EXTINF:0,WWE Network                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/13266/13266-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,== MUNDO Y CULTURA ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Animal Planet (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=373&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Canal del Congreso MX                     [B]ExabyteTV - exabytetv.info[/B]
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:0,Canal Once                     [B]ExabyteTV - exabytetv.info[/B]
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0,Discovery Channel (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=371&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery Civilization (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=382&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery SCI (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=381&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery Theater (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=351&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery Turbo (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=383&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Discovery World (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=356&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,H2 Latino                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/297/297-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,History Channel (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=353&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Ingenio TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:0,Investigation Discovery (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=263&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nasa Space Station                     [B]ExabyteTV - exabytetv.info[/B]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0,Nat Geo (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=377&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Nat Geo Wild (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=355&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,NHK World                     [B]ExabyteTV - exabytetv.info[/B]
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:0,Once TV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=111&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,RT Documentary                     [B]ExabyteTV - exabytetv.info[/B]
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:0,Twit                     [B]ExabyteTV - exabytetv.info[/B]
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0,WOBI TV (Op2)                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=387&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,== 24-7 ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Big Bang Theory                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_bigbang/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Dragon Ball                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_animes/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Fail Army                     [B]ExabyteTV - exabytetv.info[/B]
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
+#EXTINF:0,Malcom                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/megamalcolm/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Mega Simpsons                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_simpson/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Simpsons Random                     [B]ExabyteTV - exabytetv.info[/B]
+http://exabytetv.info/simpsonexa.php
+#EXTINF:0,South Park                     [B]ExabyteTV - exabytetv.info[/B]
+http://ultra.exabytetv.info/HLSVAUG/mega_revolucionhd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,== XXX ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,AmateurXXX                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/xxx_xvideos_amateur.php?token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Ask                     [B]ExabyteTV - exabytetv.info[/B]
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:0,Best Of Playboy                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/xxx_xvideos_playboy.php?token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,Bikini Down Under                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1063/exabytetv.m3u8
+#EXTINF:0,Bikini Girls Show and Tell                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1066/exabytetv.m3u8
+#EXTINF:0,Bikini Girls Showing Off                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1065/exabytetv.m3u8
+#EXTINF:0,Bikini Kitchen                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1060/exabytetv.m3u8
+#EXTINF:0,BS24 Live                     [B]ExabyteTV - exabytetv.info[/B]
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0,ButGO                     [B]ExabyteTV - exabytetv.info[/B]
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
+#EXTINF:0,College Hotties                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1062/exabytetv.m3u8
+#EXTINF:0,Hottie Shoot Live                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1061/exabytetv.m3u8
+#EXTINF:0,Jasmin TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Jasmin TV HD                     [B]ExabyteTV - exabytetv.info[/B]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Juicy                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1023/1023-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,LiveTing                     [B]ExabyteTV - exabytetv.info[/B]
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:0,Models In Motion                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1067/exabytetv.m3u8
+#EXTINF:0,Okadai TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
+#EXTINF:0,Party Girls TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1064/exabytetv.m3u8
+#EXTINF:0,Penthouse                     [B]ExabyteTV - exabytetv.info[/B]
+rtmp://edge1.everyon.tv/etv1sb/phd10927
+#EXTINF:0,Penthouse Asia                     [B]ExabyteTV - exabytetv.info[/B]
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/exabytetv.m3u8
+#EXTINF:0,Playboy Asia                     [B]ExabyteTV - exabytetv.info[/B]
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+#EXTINF:0,Playboy TV                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/289/289-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Playy 19+                     [B]ExabyteTV - exabytetv.info[/B]
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:0,Real                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1021/1021-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Secrets                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1025/1025-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Sextreme                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/287/287-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Studio Girls                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/tokener/DJBDW-1011000101111010011111011100111-ExabyteTV/1069/exabytetv.m3u8
+#EXTINF:0,Venus                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/285/285-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,Xtsy XXX                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/HLSST/1463/1463-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+#EXTINF:0,XVideos Channel                     [B]ExabyteTV - exabytetv.info[/B]
+http://premium.exabytetv.info/xxx_xvideos_channel.php?token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:0,YouPorn 24H                     [B]ExabyteTV - exabytetv.info[/B]
+http://iptvnation.com/porn/video.mp4
+#EXTINF:0,Playboy TV   (server 1)
+http://192.99.148.73:8080/live/ManoelFernandodaAscencao/HD/90.m3u8
+#EXTINF:0,Playboy   (server 2)
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/50.m3u8
+#EXTINF:0,DORCEL XXX   (server 3)
+http://164.132.171.155:8000/live/1/123456/1374.m3u8
+#EXTINF:0,brazzers   (server 3)
+http://164.132.171.155:8000/live/1/123456/971.m3u8
+#EXTINF:0,Playboy tv   (server 3)
+http://164.132.171.155:8000/live/1/123456/969.m3u8
+#EXTINF:0,Hustler HD   (server 3)
+http://164.132.171.155:8000/live/1/123456/970.m3u8
+#EXTINF:0,Hustler HD   (server 4)
+http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1737.m3u8
+#EXTINF:0,Hustler HD   (server 5)
+http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1737.m3u8
+#EXTINF:0,ESP:PLAYBOY   (server 6)
+http://grandiptv.pw:8000/live/6grandiptv419/03332325/934.m3u8
+#EXTINF:0,PORTUGAL:PLAYBOY TV   (server 6)
+http://grandiptv.pw:8000/live/6grandiptv419/03332325/1584.m3u8
+#EXTINF:0,FRANCE:HUSTLER HD   (server 6)
+http://grandiptv.pw:8000/live/6grandiptv419/03332325/647.m3u8
+#EXTINF:0,PORTUGAL:BLUE HUSTLER   (server 6)
+http://grandiptv.pw:8000/live/6grandiptv419/03332325/1583.m3u8
+#EXTINF:0,X: Dorcel TV   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23625.m3u8
+#EXTINF:0,X: Brazzers TV   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23627.m3u8
+#EXTINF:0,XXX:BRAZZERS   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/27311.m3u8
+#EXTINF:0,X: Penthouse HD   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23601.m3u8
+#EXTINF:0,X: Playboy TV   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23593.m3u8
+#EXTINF:0,XXX:PLAYBOY   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/27308.m3u8
+#EXTINF:0,X: Blue Hustler   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23628.m3u8
+#EXTINF:0,X: Hustler HD   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23608.m3u8
+#EXTINF:0,X: Hustler TV   (server 7)
+http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/23607.m3u8
