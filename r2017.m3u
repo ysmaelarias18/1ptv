@@ -177,8 +177,8 @@ http://premium.exabytetv.info/HLSST/264/264-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,"Golden Edge" tvg-logo=http://oreox.net/images/logos-canales/61.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
 
-#EXTINF:-1,"Golden HD" tvg-logo="http://i2.esmas.com/golden/images/golden-hd-logo-menu.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+#EXTINF:-1,"Golden Premier 1"tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/8.png"
+http://premium.exabytetv.info/HLSST/4777/4777-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"Az Mundo (Op2)" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=276&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
