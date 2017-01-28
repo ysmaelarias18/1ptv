@@ -152,23 +152,26 @@ http://premium.exabytetv.info/HLSST/453/453-DJBDW-101100010111101001111101110011
 #EXTINF:-1,"HBO Plus Oeste"tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png"
 http://premium.exabytetv.info/HLSST/369/369-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
-#EXTINF:-1,"Max "tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
-http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1,"CINEMax "tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=481&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"Max Latino"tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
+http://premium.exabytetv.info/HLSST/381/381-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"Max Prime Este"tvg-logo="https://s6.postimg.org/crcihcswh/Max_Prime.png"
-http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/377/377-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,Max Prime Oeste"tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png"
-http://premium.exabytetv.info/HLSST/379/379-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/379/379-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"
-http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/469/469-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
-#EXTINF:-1," Movies 5" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
-http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+#EXTINF:-1," Movies 5(Accción-Suspenso)" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1," Movies 4" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
-http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
 
@@ -177,11 +180,11 @@ http://premium.exabytetv.info/HLSST/477/477-UTVEJ-101100010100101111011001100111
 
 
 #EXTINF:-1,"Fox Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/This_is_hor_help.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
 
 #EXTINF:-1,"Fox Movies" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20100323110707"
-http://premium.exabytetv.info/HLSST/463/463-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/463/463-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
 #EXTINF:-1,"Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
