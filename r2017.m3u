@@ -110,15 +110,18 @@ http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
 #EXTINF:-1,"Cartoon Network"tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-1992-1024x768.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
 #EXTINF:-1,"Tooncast"tvg-logo="https://fercmartinez.files.wordpress.com/2014/07/tumblr_inline_mp2622rg4j1qz4rgp.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
 
 #EXTINF:-1,"Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
+
+#EXTINF:-1,"Boomerang( eng )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"
+http://premium.exabytetv.info/HLSST/4905/4905-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"Fox" tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=201&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
@@ -136,7 +139,7 @@ http://premium.exabytetv.info/HLSST/1095/1095-DJBDW-1011000101111010011111011100
 http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
-#EXTINF:-1,"HBOL-atino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+#EXTINF:-1,"HBO-Latino"tvg-logo="http://www.multivu.com/players/Spanish/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/image/7307451-logowhite.png"
 http://187.49.86.238:10000/bysid/69?ListaVIP
 
 #EXTINF:-1," HBO  "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/HBO_New_Logo.png/revision/latest?cb=20140706180139"
