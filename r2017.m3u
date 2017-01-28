@@ -1,0 +1,191 @@
+#EXTM3U       
+Canales EnVivo-RD LOCALES
+
+#EXTINF:-1,"Teleantillas 2 R. Dominicana"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
+ 
+
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
+http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
+
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
+
+ #EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+ http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+
+ #EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+ http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+
+
+#EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+
+#EXTINF:-1,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+
+#EXTINF:-1,"Canal 25 Santiago R. Dominicana"tvg-logo="http://4.bp.blogspot.com/-wNsl3LjdjK4/Vb7NWWgxeyI/AAAAAAAASoY/0s-2zuY8y3Q/s320/Canal%2B25%2BSantiago.jpg"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:-1,"Telenord 10 R. Dominicana"tvg-logo="
+http://vivotvhd.com/wp-content/uploads/bfi_thumb/canal10-telenord-2zghohcyjc5gnyst30nq4g.png
+rtsp://newyorkstream.ddns.net:1935/telenord10/telenord10
+
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+
+#EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+
+#EXTINF:-1,"XTREMO CHANNEL REP DOMINICANA"tvg-logo="http://www.xtremovision.com/images/xtremo_logo2_.png"
+http://ss9.domint.net:1970/x_str/xtremo/playlist.m3u8
+
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+http://stream2.livestreamingservices.com:1935/tvpasionhd/tvpasionhd/playlist.m3u8
+#EXTINF:-1,"Microvision10(La Vega)R. Dominicana 2"tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png"
+http://ss8.domint.net:2102/mvm_str/microvision/playlist.m3u8
+
+#EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+
+#EXTINF:-1,"Maimon Tv R. Dominicana" tvg-logo="http://www.dominicaninternet.com/images/player/maimon_logo_clear_tv_page.png"
+rtsp://ss9.domint.net:1990/mtv_str/maimon
+
+#EXTINF:-1,"Telecanal 16 R. Dominicana"tvg-logo="http://www.freeetv.com/images/reydddd/telecanal16.jpg"
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+
+#EXTINF:-1,"Vegateve Canal 12 R. Dominicana"tvg-logo="http://vegateve.com/imagen/VEGATEVE.fw.png"
+rtsp://qs1.distream.net:2106/vtv_str/canal8
+
+#EXTINF:-1,"Senales TV R. Dominicana" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png"
+http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
+
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+
+
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1,"Yuna Vision Canal 10 R. Dominicana"tvg-logo="http://yunavision.com/images/yuna2sm.png"
+http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
+
+#EXTINF:-1,"Super TV 55 Santiago R. Dominicana"tvg-logo="http://www.supertv55.tv/images/logo.png"
+http://ss9.domint.net:2022/stv_str/mp4:tv55/playlist.m3u8
+
+#EXTINF:-1,"CANCA TV ONLINE"tvg-logo="https://sc02.alicdn.com/kf/HTB1NgFhKVXXXXXzaXXXq6xXFXXX1/19-inch-BOE-Panel-1366-768-Resolution.jpg_350x350.jpg"
+http://servicioamerica.net:1935/8026/8026/playlist.m3u8
+
+#EXTINF:-1,"Vallevisoin Canal 10(R. Dominicana)"tvg-logo="http://www.multicablemedios.com/images/Canal%2010%20copia%202.png"
+http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
+
+#EXTINF:-1,"
+  Platinium TV Canal 50 (R. Dominicana)"tvg-logo="http://platiniumtv.com/wp/wp-content/uploads/2015/10/cropped-Platinium.png"
+http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
+
+#EXTINF:-1," My TV Canal 24 R. Dominicana"tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/08/my-tv-canal-24-360x240.jpg"
+http://newyorkstream.ddns.net:1935/mytv//mytv/playlist.m3u8
+
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://cld01.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
+https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/plain/uhs/4/chunk_1484186657_2de330badd.flv
+
+#EXTINF:-1,"Bonao Tv"tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
+http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1,"Cartoon Network"tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-1992-1024x768.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"Tooncast"tvg-logo="https://fercmartinez.files.wordpress.com/2014/07/tumblr_inline_mp2622rg4j1qz4rgp.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"Fox" tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=201&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"HBO 2 Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
+http://premium.exabytetv.info/HLSST/365/365-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"HBO Family Latino"tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_family_west.png.300x300_q85.png"
+http://premium.exabytetv.info/HLSST/449/449-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"HBO Latino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+http://premium.exabytetv.info/HLSST/385/385-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
+http://premium.exabytetv.info/HLSST/453/453-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,"HBO Plus Oeste"tvg-logo="http://4.bp.blogspot.com/-9teXYodxxmg/Vohxn6Yi5WI/AAAAAAAAALA/cJR7e5v34Kg/s1600/HBO%2BPlus%2Blogo.png"
+http://premium.exabytetv.info/HLSST/369/369-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Max Latino"tvg-logo="https://sc.dish.com/shared/images/station-logos/max-l.png"
+http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Max Prime Este"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/53/Max_Prime_2012.png"
+http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,Max Prime Oeste"tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png"
+http://premium.exabytetv.info/HLSST/379/379-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"
+http://premium.exabytetv.info/HLSST/469/469-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1," Movies 5" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1," Movies 4" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+
+#EXTINF:-1,"Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"
+http://premium.exabytetv.info/HLSST/477/477-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,"Fox Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/This_is_hor_help.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"Fox Movies" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20100323110707"
+http://premium.exabytetv.info/HLSST/463/463-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+
+#EXTINF:-1,"Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
+http://premium.exabytetv.info/HLSST/264/264-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+
+#EXTINF:-1,"Golden Edge" tvg-logo=http://oreox.net/images/logos-canales/61.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"Golden HD" tvg-logo="http://i2.esmas.com/golden/images/golden-hd-logo-menu.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
+
+
+#EXTINF:-1,"A&E (Op2)" tvg-logo="http://cs413616.vk.me/v413616596/86d8/zn9lTp7ie38.jpg"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=211&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"AXN (Op2)" tvg-logo="http://2.bp.blogspot.com/-DYWOrhOrUCw/Un3-_UOd6rI/AAAAAAAASMA/rMl9-dE3Bok/s1600/lluvia+de+hamburguesas+2+poster.jpg"http://premium.exabytetv.info/totalpleix-nogeo.php?canal=213&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+
+#EXTINF:-1,"24-7-action-movies" tvg-logo="http://2.bp.blogspot.com/-DYWOrhOrUCw/Un3-_UOd6rI/AAAAAAAASMA/rMl9-dE3Bok/s1600/lluvia+de+hamburguesas+2+poster.jpg"
+http://167.114.102.27/live/q2pP46TXFL-6EDc-X9yKBw/1485579170/90ce2364e02379b96643fe4d0f2d7c25.m3u8
