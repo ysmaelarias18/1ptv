@@ -124,16 +124,23 @@ http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=UTVEJ-1011000
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=201&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
 
 #EXTINF:-1,"HBO 2 Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
-http://premium.exabytetv.info/HLSST/365/365-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/365/365-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+
+#EXTINF:-1,"HBO 2 East Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
+http://premium.exabytetv.info/HLSST/216/216-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"HBO Family Latino"tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_family_west.png.300x300_q85.png"
-http://premium.exabytetv.info/HLSST/449/449-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+
 
 #EXTINF:-1,"HBO Latino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
 http://187.49.86.238:10000/bysid/69?ListaVIP
 
+#EXTINF:-1,"HBO Latino  (opt2 )"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+http://premium.exabytetv.info/HLSST/385/385-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+
 #EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
-http://premium.exabytetv.info/HLSST/453/453-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/453/453-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
 #EXTINF:-1,"HBO Plus Oeste"tvg-logo="http://4.bp.blogspot.com/-9teXYodxxmg/Vohxn6Yi5WI/AAAAAAAAALA/cJR7e5v34Kg/s1600/HBO%2BPlus%2Blogo.png"
@@ -174,10 +181,10 @@ http://premium.exabytetv.info/HLSST/463/463-UTVEJ-101100010100101111011001100111
 #EXTINF:-1,"Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
 http://premium.exabytetv.info/HLSST/264/264-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
-#EXTINF:-1,"Golden Edge" tvg-logo=http://oreox.net/images/logos-canales/61.png"
+#EXTINF:-1,"Golden Premier2" tvg-logo=http://forounivers.com/uploads/monthly_2016_11/large.582a01a1042b3_GoldenPremier2.png.3376a64a383010cbfdf70f29a447d76c.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
 
-#EXTINF:-1,"Golden Premier 1"tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/8.png"
+#EXTINF:-1,"Golden Premier1"tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/8.png"
 http://premium.exabytetv.info/HLSST/4777/4777-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"Az Mundo (Op2)" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png"
