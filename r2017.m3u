@@ -184,7 +184,8 @@ http://premium.exabytetv.info/totalpleix-nogeo.php?canal=436&token=UTVEJ-1011000
 #EXTINF:-1,"A&E (Op2)"tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png"
 http://premium.exabytetv.info/totalpleix-nogeo.php?canal=211&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
-#EXTINF:-1,"AXN (Op2)"tvg-logo="http://cdn32.sptndigital.com/sites/la.axn/files/logos/axn_0.png"http://premium.exabytetv.info/totalpleix-nogeo.php?canal=213&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
+#EXTINF:-1,"AXN (Op2)"tvg-logo="http://cdn32.sptndigital.com/sites/la.axn/files/logos/axn_0.png"
+http://premium.exabytetv.info/totalpleix-nogeo.php?canal=213&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
 
 #EXTINF:-1,"24-7-action-movies(eng)" tvg-logo="https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-d/action-movies-colour-lightbg.png"
 http://167.114.102.27/live/tGfM2ZgO0uhSGEjO4Plong/1485645170/90ce2364e02379b96643fe4d0f2d7c25.m3u8
@@ -194,6 +195,7 @@ http://167.114.102.27/live/mCcGaCFFlbsrW1VDxioAjw/1485644270/90ce2364e02379b9664
 
 
 
-#EXTINF:-1,"24/7 Romance Movies" tvg-logo="http://2.bp.blogspot.com/-e5NvAoyrYeE/UJJS-1AKeQI/AAAAAAAAPb4/hXstlYyWPVs/s1600/24_7+IN+LOVE+teaser.jpg"
+#EXTINF:-1,"24/7 Romance Movies"tvg-logo="http://2.bp.blogspot.com/-e5NvAoyrYeE/UJJS-1AKeQI/AAAAAAAAPb4/hXstlYyWPVs/s1600/24_7+IN+LOVE+teaser.jpg"
 http://192.95.33.51/live/MoJwznFxvZE_MtLp2j3Fzg/1485644571/3248e60a5820cec655cb031cc2662925.m3u8
-#EXTINF:-1,"
+
+#EXTINF:-1,"24/7 Comedy Movies"tvg-logo="https://lh4.ggpht.com/upPeLEOYzgbfpWJ9vg7CRB22GKB5JRWoIAn0t4HLUDOFdlwTs0kVNo8-dttvP4NNtw=h900"http://167.114.102.27/live/689NCSzuznLI-bmuesryTA/1485645766/6fd04bc5b53697040f6f43a3c96d7658.m3u8
