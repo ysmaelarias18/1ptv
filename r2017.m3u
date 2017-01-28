@@ -129,6 +129,9 @@ http://premium.exabytetv.info/HLSST/365/365-DJBDW-101100010111101001111101110011
 #EXTINF:-1,"HBO 2 East Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
 http://premium.exabytetv.info/HLSST/216/216-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
+#EXTINF:-1,"HBO 2 WEST Latino"tvg-logo="http://static01.uverse.com/web_files/NEXTGEN/web_files/images/Network%20Logos/network-page/hbo2.png"
+http://premium.exabytetv.info/HLSST/1095/1095-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
+
 #EXTINF:-1,"HBO Family Latino"tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_family_west.png.300x300_q85.png"
 http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
@@ -136,7 +139,7 @@ http://premium.exabytetv.info/HLSST/449/449-DJBDW-101100010111101001111101110011
 #EXTINF:-1,"HBO Latino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
 http://187.49.86.238:10000/bysid/69?ListaVIP
 
-#EXTINF:-1,"HBO Latino  (opt2 )"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+#EXTINF:-1,"HBO   (opt2 )"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/HBO_New_Logo.png/revision/latest?cb=20140706180139"
 http://premium.exabytetv.info/HLSST/385/385-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
