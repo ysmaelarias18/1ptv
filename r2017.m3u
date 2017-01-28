@@ -92,8 +92,7 @@ http://servicioamerica.net:1935/8026/8026/playlist.m3u8
 #EXTINF:-1,"Vallevisoin Canal 10(R. Dominicana)"tvg-logo="http://www.multicablemedios.com/images/Canal%2010%20copia%202.png"
 http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
 
-#EXTINF:-1,"
-  Platinium TV Canal 50 (R. Dominicana)"tvg-logo="http://platiniumtv.com/wp/wp-content/uploads/2015/10/cropped-Platinium.png"
+#EXTINF:-1,"Platinium TV Canal 50 (R. Dominicana)"tvg-logo="http://platiniumtv.com/wp/wp-content/uploads/2015/10/cropped-Platinium.png"
 http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
 
 #EXTINF:-1," My TV Canal 24 R. Dominicana"tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/08/my-tv-canal-24-360x240.jpg"
@@ -191,7 +190,7 @@ http://premium.exabytetv.info/totalpleix-nogeo.php?canal=211&token=DJBDW-1011000
 http://167.114.102.27/live/q2pP46TXFL-6EDc-X9yKBw/1485579170/90ce2364e02379b96643fe4d0f2d7c25.m3u8
 
 #EXTINF:-1,"aguilas vs licey" tvg-logo="http://tiempoextra.do/wp-content/uploads/2015/10/1445571000_tmp_aguilas_contra_licey.jpg"
-https://www.youtube.com/v/sJPnWlTMloU?version=3&autohide=1.m3u8
+http://167.114.102.27/live/mCcGaCFFlbsrW1VDxioAjw/1485644270/90ce2364e02379b96643fe4d0f2d7c25.m3u8
 
 
 
