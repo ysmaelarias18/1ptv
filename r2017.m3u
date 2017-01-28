@@ -137,7 +137,7 @@ http://premium.exabytetv.info/HLSST/453/453-UTVEJ-101100010100101111011001100111
 
 
 #EXTINF:-1,"HBO Plus Oeste"tvg-logo="http://4.bp.blogspot.com/-9teXYodxxmg/Vohxn6Yi5WI/AAAAAAAAALA/cJR7e5v34Kg/s1600/HBO%2BPlus%2Blogo.png"
-http://premium.exabytetv.info/HLSST/369/369-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/369/369-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"Max Latino"tvg-logo="https://sc.dish.com/shared/images/station-logos/max-l.png"
 http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
@@ -198,5 +198,5 @@ http://167.114.102.27/live/689NCSzuznLI-bmuesryTA/1485645766/6fd04bc5b53697040f6
 #EXTINF:-1,"24/7 Romance Movies (eng)"tvg-logo="http://2.bp.blogspot.com/-e5NvAoyrYeE/UJJS-1AKeQI/AAAAAAAAPb4/hXstlYyWPVs/s1600/24_7+IN+LOVE+teaser.jpg"
 http://192.95.33.51/live/MoJwznFxvZE_MtLp2j3Fzg/1485644571/3248e60a5820cec655cb031cc2662925.m3u8
 
-#EXTINF:-1,"24/7 Movies"tvg-logo="https://lh6.ggpht.com/A419LNIWiN8One8uNC9QMoNfyDrXJd-61hnD_EZtvN3Xh-MiB87UNGnCVRvlETlM_MCc=w300"
+#EXTINF:-1,"24/7Movies"tvg-logo="https://lh6.ggpht.com/A419LNIWiN8One8uNC9QMoNfyDrXJd-61hnD_EZtvN3Xh-MiB87UNGnCVRvlETlM_MCc=w300"
 http://167.114.102.27/live/qYRlKgpL7dKkW2iv7EMM3Q/1485646666/94d035945b3d82182669c4d3f6daa104.m3u8
