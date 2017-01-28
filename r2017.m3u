@@ -132,27 +132,27 @@ http://premium.exabytetv.info/HLSST/216/216-DJBDW-101100010111101001111101110011
 #EXTINF:-1,"HBO 2 WEST Latino"tvg-logo="http://static01.uverse.com/web_files/NEXTGEN/web_files/images/Network%20Logos/network-page/hbo2.png"
 http://premium.exabytetv.info/HLSST/1095/1095-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
-#EXTINF:-1,"HBO Family Latino"tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_family_west.png.300x300_q85.png"
+#EXTINF:-1,"HBO Family Latino"tvg-logo="https://s6.postimg.org/vfuk4ojtd/HBO_Family_logo.png"
 http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
-#EXTINF:-1,"HBO Latino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
+#EXTINF:-1,"HBOL-atino"tvg-logo="http://2.bp.blogspot.com/-tOEoo6Mrxjc/VTPVH4gXrjI/AAAAAAAAAlI/uKWtMu7Zq2I/s1600/HBO_Latino_logo.png"
 http://187.49.86.238:10000/bysid/69?ListaVIP
 
-#EXTINF:-1,"HBO   (opt2 )"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/HBO_New_Logo.png/revision/latest?cb=20140706180139"
+#EXTINF:-1," HBO  "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/HBO_New_Logo.png/revision/latest?cb=20140706180139"
 http://premium.exabytetv.info/HLSST/385/385-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 #EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
 http://premium.exabytetv.info/HLSST/453/453-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
 
-#EXTINF:-1,"HBO Plus Oeste"tvg-logo="http://4.bp.blogspot.com/-9teXYodxxmg/Vohxn6Yi5WI/AAAAAAAAALA/cJR7e5v34Kg/s1600/HBO%2BPlus%2Blogo.png"
+#EXTINF:-1,"HBO Plus Oeste"tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png"
 http://premium.exabytetv.info/HLSST/369/369-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
 
-#EXTINF:-1,"Max Latino"tvg-logo="https://sc.dish.com/shared/images/station-logos/max-l.png"
+#EXTINF:-1,"Max "tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
 http://premium.exabytetv.info/HLSST/381/381-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
-#EXTINF:-1,"Max Prime Este"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/53/Max_Prime_2012.png"
+#EXTINF:-1,"Max Prime Este"tvg-logo="https://s6.postimg.org/crcihcswh/Max_Prime.png"
 http://premium.exabytetv.info/HLSST/377/377-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
 #EXTINF:-1,Max Prime Oeste"tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png"
@@ -169,7 +169,7 @@ http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-101100010100101111011
 
 
 
-#EXTINF:-1,"Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"
+#EXTINF:-1,"Cine Latino" tvg-logo="https://s6.postimg.org/z9jf03brl/cinelatino.png"
 http://premium.exabytetv.info/HLSST/477/477-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
 
 
