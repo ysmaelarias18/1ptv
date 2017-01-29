@@ -39,3 +39,11 @@ http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
+#EXTVLCOPT:canal25
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTVLCOPT:yuna
+http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8
+#EXTVLCOPT:bonao
+http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
+#EXTVLCOPT:canal50
+http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
