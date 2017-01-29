@@ -40,9 +40,11 @@ http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 #EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
 
-#EXTINF:-1,"Telenord 10 R. Dominicana"tvg-logo="
-http://vivotvhd.com/wp-content/uploads/bfi_thumb/canal10-telenord-2zghohcyjc5gnyst30nq4g.png
-rtsp://newyorkstream.ddns.net:1935/telenord10/telenord10
+#EXTINF:-1,"Telenord 10 R. Dominicana"tvg-logo="http://vivotvhd.com/wp-content/uploads/bfi_thumb/canal10-telenord-2zghohcyjc5gnyst30nq4g.png
+rtsp://newyorkstream.ddns.net:1935/telenord10/telenord10  
+
+718-795-6951
+
 
 #EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
 http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
@@ -166,12 +168,6 @@ http://premium.exabytetv.info/HLSST/379/379-DJBDW-101100010111101001111101110011
 
 #EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"
 http://premium.exabytetv.info/HLSST/469/469-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1," Movies 5(Accción)" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png"http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1," Movies 4" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
-http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
 
 
 #EXTINF:-1,"Cine Latino" tvg-logo="https://s6.postimg.org/z9jf03brl/cinelatino.png"
