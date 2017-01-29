@@ -100,125 +100,12 @@ http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
 #EXTINF:-1," My TV Canal 24 R. Dominicana"tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/08/my-tv-canal-24-360x240.jpg"
 http://newyorkstream.ddns.net:1935/mytv//mytv/playlist.m3u8
 
-#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
-https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://cld01.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
 
-#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
-https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/plain/uhs/4/chunk_1484186657_2de330badd.flv
 
 #EXTINF:-1,"Bonao Tv"tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
 
-#EXTINF:-1,"Cartoon Network"tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-1992-1024x768.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=320&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"Tooncast"tvg-logo="https://fercmartinez.files.wordpress.com/2014/07/tumblr_inline_mp2622rg4j1qz4rgp.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=328&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-
-#EXTINF:-1,"Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=324&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-
-#EXTINF:-1,"Boomerang( eng )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"
-http://premium.exabytetv.info/HLSST/4905/4905-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"Fox" tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=201&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"HBO 2 Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
-http://premium.exabytetv.info/HLSST/365/365-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"HBO 2 East Latino"tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png"
-http://premium.exabytetv.info/HLSST/216/216-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"HBO 2 WEST Latino"tvg-logo="http://static01.uverse.com/web_files/NEXTGEN/web_files/images/Network%20Logos/network-page/hbo2.png"
-http://premium.exabytetv.info/HLSST/1095/1095-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"HBO Family Latino"tvg-logo="https://s6.postimg.org/vfuk4ojtd/HBO_Family_logo.png"
-http://premium.exabytetv.info/HLSST/449/449-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-
-#EXTINF:-1,"HBO-Latino"tvg-logo="http://www.multivu.com/players/Spanish/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/image/7307451-logowhite.png"
-http://187.49.86.238:10000/bysid/69?ListaVIP
-
-#EXTINF:-1," HBO  "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/HBO_New_Logo.png/revision/latest?cb=20140706180139"
-http://premium.exabytetv.info/HLSST/385/385-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"HBO Plus Este"tvg-logo="http://i.imgur.com/qSXQf.png"
-http://premium.exabytetv.info/HLSST/453/453-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-
-#EXTINF:-1,"HBO Plus Oeste"tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png"
-http://premium.exabytetv.info/HLSST/369/369-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"CINEMax "tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=481&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"Max Latino"tvg-logo="https://s6.postimg.org/tqlgwm441/MAX_Black.png"
-http://premium.exabytetv.info/HLSST/381/381-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"Max Prime Este"tvg-logo="https://s6.postimg.org/crcihcswh/Max_Prime.png"
-http://premium.exabytetv.info/HLSST/377/377-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,Max Prime Oeste"tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png"
-http://premium.exabytetv.info/HLSST/379/379-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,Max Up Latino"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516"
-http://premium.exabytetv.info/HLSST/469/469-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-
-#EXTINF:-1,"Cine Latino" tvg-logo="https://s6.postimg.org/z9jf03brl/cinelatino.png"
-http://premium.exabytetv.info/HLSST/477/477-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
-
-
-#EXTINF:-1,"Fox Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/This_is_hor_help.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=416&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-
-#EXTINF:-1,"Fox Movies" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20100323110707"
-http://premium.exabytetv.info/HLSST/463/463-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-
-#EXTINF:-1,"Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"
-http://premium.exabytetv.info/HLSST/264/264-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
-
-#EXTINF:-1,"Golden Premier2" tvg-logo=http://forounivers.com/uploads/monthly_2016_11/large.582a01a1042b3_GoldenPremier2.png.3376a64a383010cbfdf70f29a447d76c.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=484&token=UTVEJ-1011000101001011110110011001111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"Golden Premier1"tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/8.png"
-http://premium.exabytetv.info/HLSST/4777/4777-DJBDW-1011000101111010011111011100111-ExabyteTV.m3u8
-
-#EXTINF:-1,"Az Mundo (Op2)" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=276&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-
-#EXTINF:-1,"A&E (Op2)"tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=211&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"AXN (Op2)"tvg-logo="http://cdn32.sptndigital.com/sites/la.axn/files/logos/axn_0.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=213&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-#EXTINF:-1,"24-7-action-movies(eng)" tvg-logo="https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-d/action-movies-colour-lightbg.png"
-http://167.114.102.27/live/tGfM2ZgO0uhSGEjO4Plong/1485645170/90ce2364e02379b96643fe4d0f2d7c25.m3u8
-
-#EXTINF:-1,"24/7 Comedy Movies  (eng)"tvg-logo="https://lh4.ggpht.com/upPeLEOYzgbfpWJ9vg7CRB22GKB5JRWoIAn0t4HLUDOFdlwTs0kVNo8-dttvP4NNtw=h900"
-http://167.114.102.27/live/689NCSzuznLI-bmuesryTA/1485645766/6fd04bc5b53697040f6f43a3c96d7658.m3u8
-
-
-
-#EXTINF:-1,"24/7 Romance Movies (eng)"tvg-logo="http://2.bp.blogspot.com/-e5NvAoyrYeE/UJJS-1AKeQI/AAAAAAAAPb4/hXstlYyWPVs/s1600/24_7+IN+LOVE+teaser.jpg"
-http://192.95.33.51/live/MoJwznFxvZE_MtLp2j3Fzg/1485644571/3248e60a5820cec655cb031cc2662925.m3u8
-
-#EXTINF:-1,"24/7Movies"tvg-logo="https://lh6.ggpht.com/A419LNIWiN8One8uNC9QMoNfyDrXJd-61hnD_EZtvN3Xh-MiB87UNGnCVRvlETlM_MCc=w300"
-http://167.114.102.27/live/qYRlKgpL7dKkW2iv7EMM3Q/1485646666/94d035945b3d82182669c4d3f6daa104.m3u8
-
-
-#EXTINF:-1,"E! (Op2)" tvg-logo="https://s31.postimg.org/pastb879n/E_Milgreen.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=255&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
-
-
-#EXTINF:-1,"Las Estrellas (Op2) " tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_2011.png"
-http://premium.exabytetv.info/totalpleix-nogeo.php?canal=102&token=DJBDW-1011000101111010011111011100111-ExabyteTV&f=.m3u8
