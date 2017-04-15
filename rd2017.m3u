@@ -3,7 +3,9 @@ Canales EnVivo-RD LOCALES
 
 #EXTINF:-1,"Teleantillas 2 R. Dominicana"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
- 
+
+#EXTINF:-1," Fate of the Furious " tvg-logo="https://www.flickeringmyth.com/wp-content/uploads/2017/03/The-Fate-of-the-Furious-1.jpg"
+https://r5---sn-n2gpou-ab5e.googlevideo.com/videoplayback?id=7b0e1867097f312d&itag=18&source=webdrive&requiressl=yes&ttl=transient&pl=17&ei=I5zxWLCkDo2NqwXzxpGoBg&mime=video%2Fmp4&lmt=1492200164564360&ip=173.129.42.195&ipbits=128&expire=1492243555&sparams=ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,ttl&signature=731917141AFA238A9EACFAC5F8D94D17056233B4.10089BD15394CA0760E23552CB6363BF2D4E8406&key=cms1&app=gnouv.com&cms_redirect=yes&mm=31&mn=sn-n2gpou-ab5e&ms=au&mt=1492239499&mv=m
 
 #EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
@@ -157,7 +159,6 @@ http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-UTVEJ-10110001010010
 
 #EXTINF:-1," Movies 4" tvg-logo="https://github.com/tu1star/1ptv/blob/master/tu1starIptv%20peliculas.png?raw=true"
 http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-UTVEJ-1011000101001011110110011001111-ExabyteTV.m3u8
-
 
 
 #EXTINF:-1,"Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"
