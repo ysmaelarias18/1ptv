@@ -101,11 +101,10 @@ http://newyorkstream.ddns.net:1935/mytv//mytv/playlist.m3u8
 
 #EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
 https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
-http://cld01.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w1990961901.m3u8
 
-#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="
-https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
-http://sjc-ucdn02.ustream.tv/wdc04/wdc04-uhs-live03/live/18743646/1484185352010/plain/uhs/4/chunk_1484186657_2de330badd.flv
+#EXTINF:-1,"The.Fate.of.the.Furious.2017.1080p (R. Dominicana)"tvg-logo="http://allwrestling.wzm7g8ko2it96.maxcdn-edge.com/wp-content/uploads/2017/04/Fast-and-Furious-8-Fate-FF-640x360.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The.Fate.of.the.Furious.2017.1080p.HC.HDRip.X264.AC3-EVO/The.Fate.of.the.Furious.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv
 
 #EXTINF:-1,"Bonao Tv"tvg-logo="http://bonaotv.com/images/bonao_logo_pb_500sm.png"
 http://ss9.domint.net:1988/btv_str/bonao/playlist.m3u8
