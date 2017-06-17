@@ -1,0 +1,312 @@
+#EXTM3U
+
+#EXTINF:-1,LAT:HBO PLUS
+http://192.99.47.130:8000/live/stalker/stalker/83.ts
+
+#EXTINF:-1,LAT:HBO FAMILY
+http://192.99.47.130:8000/live/stalker/stalker/84.ts
+
+#EXTINF:-1,LAT:HBO
+http://192.99.47.130:8000/live/stalker/stalker/85.ts
+
+#EXTINF:-1,LAT:H2
+http://192.99.47.130:8000/live/stalker/stalker/104.ts
+
+#EXTINF:-1,LAT;MAX PRIMERE (OESTE)
+http://192.99.47.130:8000/live/stalker/stalker/63.ts
+
+#EXTINF:-1,LAT:MAX PREMIE ESTE
+http://192.99.47.130:8000/live/stalker/stalker/80.ts
+
+#EXTINF:-1,LAT;HBO2
+http://192.99.47.130:8000/live/stalker/stalker/64.ts
+
+#EXTINF:-1,LAT:GOLDEN
+http://192.99.47.130:8000/live/stalker/stalker/114.ts
+
+#EXTINF:-1,LAT:FOX FAMILY
+http://192.99.47.130:8000/live/stalker/stalker/87.ts
+
+#EXTINF:-1,LAT:FOX CLASICO
+http://192.99.47.130:8000/live/stalker/stalker/118.ts
+
+#EXTINF:-1,LAT:FOX ACTION
+http://192.99.47.130:8000/live/stalker/stalker/88.ts
+
+#EXTINF:-1,LAT:FOX 1
+http://192.99.47.130:8000/live/stalker/stalker/89.ts
+
+#EXTINF:-1,LAT;FOX MOVIES
+http://192.99.47.130:8000/live/stalker/stalker/66.ts
+
+#EXTINF:-1,LAT:TNT SERIES RE
+http://192.99.47.130:8000/live/stalker/stalker/69.ts
+
+#EXTINF:-1,LAT:TLC
+http://192.99.47.130:8000/live/stalker/stalker/70.ts
+
+#EXTINF:-1,LAT:FX LATIN
+http://192.99.47.130:8000/live/stalker/stalker/115.ts
+
+#EXTINF:-1,LAT:THE FILM ZONE
+http://192.99.47.130:8000/live/stalker/stalker/110.ts
+
+#EXTINF:-1,LAT:TELEMUNDO
+http://192.99.47.130:8000/live/stalker/stalker/71.ts
+
+#EXTINF:-1,lat:tcm
+http://192.99.47.130:8000/live/stalker/stalker/72.ts
+
+#EXTINF:-1,LAT:TBS
+http://192.99.47.130:8000/live/stalker/stalker/73.ts
+
+#EXTINF:-1,LAT:SYFY
+http://192.99.47.130:8000/live/stalker/stalker/74.ts
+
+#EXTINF:-1,LAT:STUDIO UNIVERSAL
+http://192.99.47.130:8000/live/stalker/stalker/111.ts
+
+#EXTINF:-1,LAT:SPACE
+http://192.99.47.130:8000/live/stalker/stalker/75.ts
+
+#EXTINF:-1,LAT:UNIVERSAL
+http://192.99.47.130:8000/live/stalker/stalker/68.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Universal
+http://209.126.110.107:8081/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TLC - Latino
+http://163.172.213.25:8000/live/gregorio1/gregorio1/687.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 5
+http://209.126.110.107:8081/105canal5/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azteca 7
+http://209.126.110.107:8081/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azteca 13
+http://209.126.110.107:8081/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox
+http://209.126.110.107:8081/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,lat:mundofox
+http://192.99.47.130:8000/live/stalker/stalker/113.ts
+
+#EXTINF:-1,LAT:MTV
+http://192.99.47.130:8000/live/stalker/stalker/53.ts
+
+#EXTINF:-1,LAT:LIFETIME
+http://192.99.47.130:8000/live/stalker/stalker/81.ts
+
+#EXTINF:-1,LAT:CINEMAX
+http://192.99.47.130:8000/live/stalker/stalker/97.ts
+
+
+#EXTINF:-1,LAT:AXN
+http://192.99.47.130:8000/live/stalker/stalker/100.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",SyFy
+http://209.126.110.107:8081/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT
+http://209.126.110.107:8081/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Studio
+http://209.126.110.107:8081/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX
+http://209.126.110.107:8081/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AXN
+http://209.126.110.107:8081/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TBS
+http://209.126.110.107:8081/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox Life
+http://209.126.110.107:8081/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Warner
+http://209.126.110.107:8081/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Sony
+http://209.126.110.107:8081/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",E!
+http://209.126.110.107:8081/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Central Comedy
+http://209.126.110.107:8081/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,LAT:AMC
+http://192.99.47.130:8000/live/stalker/stalker/102.ts
+
+#EXTINF:-1,LAT:ABC(MIAMI)
+http://192.99.47.130:8000/live/stalker/stalker/60.ts
+
+#EXTINF:-1,LAT;TNT
+http://192.99.47.130:8000/live/stalker/stalker/61.ts
+
+#EXTINF:-1,LAT;SONY
+http://192.99.47.130:8000/live/stalker/stalker/62.ts
+
+#EXTINF:-1,LAT;FOX MIAMI
+http://192.99.47.130:8000/live/stalker/stalker/109.ts
+
+#EXTINF:-1,LAT:FOX
+http://192.99.47.130:8000/live/stalker/stalker/90.ts
+
+#EXTINF:-1,LAT:FOX LIFE
+http://192.99.47.130:8000/live/stalker/stalker/55.ts
+
+#EXTINF:-1,LAT:E!
+http://192.99.47.130:8000/live/stalker/stalker/91.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ CULTURALES ++
+http://IPTVONLINE.COM
+
+#EXTINF:-1,LAT:ANIMAL PLANET
+http://192.99.47.130:8000/live/stalker/stalker/101.ts
+
+#EXTINF:-1,LAT:DISCOVERY HOME
+http://192.99.47.130:8000/live/stalker/stalker/95.ts
+
+#EXTINF:-1,LAT:DISCOVERY CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/120.ts
+
+#EXTINF:-1,LAT:ID
+http://192.99.47.130:8000/live/stalker/stalker/82.ts
+
+#EXTINF:-1,LAT:HISTORY CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/54.ts
+
+#EXTINF:-1,lat:nat geo wild
+http://192.99.47.130:8000/live/stalker/stalker/78.ts
+
+#EXTINF:-1,LAT:NAT GEO
+http://192.99.47.130:8000/live/stalker/stalker/79.ts
+
+#EXTINF:-1,LAT:TURBO
+http://192.99.47.130:8000/live/stalker/stalker/103.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Channel
+http://209.126.110.107:8081/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",History
+http://209.126.110.107:8081/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Natgeo
+http://209.126.110.107:8081/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery H&H
+http://209.126.110.107:8081/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8?
+
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ INFANTILES ++
+http://IPTVONLINE.COM
+
+#EXTINF:-1,lat:Disney XD
+http://192.99.47.130:8000/live/stalker/stalker/59.ts
+
+#EXTINF:-1,LAT:DISNEY SD
+http://192.99.47.130:8000/live/stalker/stalker/92.ts
+
+#EXTINF:-1,lat:disney jr
+http://192.99.47.130:8000/live/stalker/stalker/93.ts
+
+#EXTINF:-1,LAT:DISCOVERY KID
+http://192.99.47.130:8000/live/stalker/stalker/94.ts
+
+#EXTINF:-1,LAT:CARTOON LATINO AMERICA
+http://192.99.47.130:8000/live/stalker/stalker/98.ts
+
+#EXTINF:-1,LAT:BOOMERANG:LATINO
+http://192.99.47.130:8000/live/stalker/stalker/99.ts
+
+#EXTINF:-1,LAT:NICKELODON SD
+http://192.99.47.130:8000/live/stalker/stalker/76.ts
+
+#EXTINF:-1,lat:nick jr..
+http://192.99.47.130:8000/live/stalker/stalker/77.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney XD
+http://209.126.110.107:8081/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nick
+http://209.126.110.107:8081/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nick JR
+http://209.126.110.107:8081/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Cartoon Network
+http://209.126.110.107:8081/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,LA: Carton Network HD
+http://bestiptv01.com:999/live/Leo1973/sgkjz30dXO/13906.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Kids
+http://209.126.110.107:8081/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney Channel
+http://209.126.110.107:8081/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney Jr
+http://209.126.110.107:8081/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ MEXICO ++
+http://IPTVONLINE.COM
+
+#EXTINF:-1,LAT:AZTECA INTERNACIONA;
+http://192.99.47.130:8000/live/stalker/stalker/122.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ NOTICIAS ++
+http://IPTVONLINE.COM
+
+#EXTINF:-1,LAT:CNN
+http://192.99.47.130:8000/live/stalker/stalker/96.ts
+
+#EXTINF:-1,LAT:NBC MIAMI
+http://192.99.47.130:8000/live/stalker/stalker/112.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ DEPORTES ++
+http://IPTVONLINE.COM
+
+#EXTINF:-1,LAT:FOX SPORT3
+http://192.99.47.130:8000/live/stalker/stalker/86.ts
+
+#EXTINF:-1,LAT:FOX SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/116.ts
+
+#EXTINF:-1,LAT:ESPN
+http://192.99.47.130:8000/live/stalker/stalker/57.ts
+
+#EXTINF:-1,LAT:ESPN2
+http://192.99.47.130:8000/live/stalker/stalker/56.ts
+
+#EXTINF:-1,lat:espn3
+http://192.99.47.130:8000/live/stalker/stalker/119.ts
+
+#EXTINF:-1,LAT:CLARO SPORT
+http://192.99.47.130:8000/live/stalker/stalker/121.ts
+
+#EXTINF:-1,LAT;FOX SPORT SD
+http://192.99.47.130:8000/live/stalker/stalker/65.ts
+
+
+#EXTINF:-1 tvg-logo="https://server2.kproxy.com/servlet/redirect.srv/sdr/sbrl/p1/LOGOIPTVON",[COLOR WHITE] [/COLOR] ++ PROBANDO 28 MAYO ++
+http://IPTVONLINE.COM
