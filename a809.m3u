@@ -1,0 +1,66 @@
+#EXTM3U       
+Canales EnVivo-RD LOCALES 2017
+
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
+http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
+#EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
+#EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+#EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+#EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:-1,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+#EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+#EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
+#EXTINF:0,Wonder Woman  (Mujer Maravilla)
+https://openload.co/embed/2D44v2IyZbY/W0nd3r..m4r4v1ll4_-_www.locopelis.com.mp4
+#EXTINF:0,La momia (2017)
+https://openload.co/embed/G5GpIeR9tak/
+#EXTINF:0,Sinopsis Knight Rider(El coche fantastico: La pelicula (2008)
+https://openload.co/embed/Q4_jxMoBqZw/c0ch3.f4n74571c0_-_www.locopelis.com.mp4
+#EXTINF:0,Piratas del Caribe 5 (2017)
+https://openload.co/embed/Dl-omCc0HSs/91r4745.c4r1_-_www.locopelis.com.mp4
+#EXTINF:0,Rapido y furioso 8 (2017)
+https://openload.co/embed/Wu_bKP8U7jU/r4p1d0s.fur10505.0zh0_-_www.locopelis.com.mp4
+#EXTINF:0,Carrera mortal 2050 (2017)
+https://openload.co/embed/e0oKVeZRMe8/
+#EXTINF:0,El experimento (2010)
+https://openload.co/embed/8oLsUBdnh7U/3xp3r1m3n70_-_www.locopelis.com.mp4
+#EXTINF:0,Cat Run 2 online (2014)
+https://openload.co/embed/3LmSZ2KLBCU/c47.rvn_-_www.locopelis.com.mp4
+#EXTINF:0,Arsenal (2017)
+https://openload.co/embed/LgWoQ0fQw7k/4r53n4l_-_www.locopelis.com.mp4
+#EXTINF:0,Life (Vida) Online (2017)
+https://openload.co/embed/TFyZcqwuPP4/l1f3_-_www.locopelis.com.mp4
+#EXTINF:0,El bebe jefazo (2017)
+https://openload.co/embed/oygZbqiru9E/3L8383J3F4S0_-_www.locopelis.com.mp4
+#EXTINF:0,Los pitufos: La aldea escondida (2017)
+https://openload.co/embed/0o8buxHPDgk/p1tuf1z.mp4
+#EXTINF:0,Lucid Dream (2017)
+https://openload.co/embed/NIXbAb9ePK4/
+#EXTINF:0,Logan (2017)
+https://openload.co/embed/iIoUvM97MIM/
+#EXTINF:0,Altitude (2017)
+https://openload.co/embed/bnAAPmgvIU4/
+#EXTINF:0,Alien Implant: The Hunted Must Become the Hunter (2017)
+https://openload.co/embed/9q88ayHwyeM/
