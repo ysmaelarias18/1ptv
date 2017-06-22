@@ -1,47 +1,78 @@
-#EXTM3U
-#EXTINF:0,,xXx3
+﻿#EXTM3U
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
+http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
+#EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
+#EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+#EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+#EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:-1,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+#EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+#EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
+#EXTINF:0,,xXx3"tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/xxx3-internationaposter.jpg"
 http://www.apkwhite.com/pelis/xXx3.mp4
-#EXTINF:0,Resident.Evil.The.Final.Chapter
+#EXTINF:0,Resident.Evil.The.Final.Chapter" tvg-logo="http://orig15.deviantart.net/c4b7/f/2017/007/0/7/resident_evil_the_final_chapter_movie_folder_icon_by_zenoasis-daullkt.png"
 http://www.apkwhite.com/pelis/Resident.Evil.The.Final.Chapter..mkv
-#EXTINF:0,Logan
+#EXTINF:0,Logan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyztN5TGwobSN9mTqN6VvERnvXiFcPpL_xf8IAHBG943W-BM3N7A"
 http://www.apkwhite.com/pelis/LoganLatino.mp4
-#EXTINF:0,Power Rangers (2017) HDTS ESPAÑOL LATINO - 
+#EXTINF:0,Power Rangers (2017) HDTS ESPAÑOL LATINO" tvg-logo="http://orig05.deviantart.net/580e/f/2017/066/e/6/power_rangers__2017__v3_by_drdarkdoom-db1iij8.png"
 http://www.apkwhite.com/onedrives/carnes/Power%20Rangers%20(2017)%20HDTS%20%20ESPA%c3%91OL%20LATINO%20-%20Olimpo.link.mp4
-#EXTINF:0,JohnWick2
+#EXTINF:0,JohnWick2" tvg-logo="https://wwww.moviedramaguide.top/wp-content/uploads/2017/02/john-wick-2.jpg"
 http://www.apkwhite.com/pelis/JohnWick2un.mkv
-#EXTINF:0,FistFight2017
+#EXTINF:0,FistFight2017" tvg-logo="https://www.biggestmoviebox.com//media/movies/large/9402968457745389.png"
 http://www.apkwhite.com/pelis/2017/FistFight2017.MP4
-#EXTINF:0,BeautyAndTheBeast
+#EXTINF:0,BeautyAndTheBeast" tvg-logo="http://www.booktopia.com.au/http_coversbooktopiacomau/big/9322225206083/beauty-and-the-beast-2014-.jpg"
 http://www.apkwhite.com/Sagas/BeautyAndTheBeast.mkv
-#EXTINF:0,Justice League Dark (2017) Latino 
+#EXTINF:0,Justice League Dark (2017) Latino " tvg-logo="https://i1.wp.com/cdn.batman-news.com/wp-content/uploads/2017/02/justice-league-dark-poster.jpg?quality=85&strip=info&ssl=1&w=800"
 http://www.apkwhite.com/onedrives/loveseason/Justice%20League%20Dark%20(2017)%20Latino%20HD%20WEB-DL%201080P.mkv
-#EXTINF:0,k00ng2017
+#EXTINF:0,k00ng2017" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYBciJ0Jg0ok2cAlZZcMQtsrenj6Cdlbb2T7zKpZjyyiMmWDe"
 http://www.apkwhite.com/onedrives/loveseason/k00ng2017.720p-HD.Latino.Estrenos.mkv
-#EXTINF:0,Drone.2017
+#EXTINF:0,Drone.2017" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhAU3qvHebKVOPgAvNeBYXEHp_FEvJeru2_6zs9t2U2Ccxrqy-w"
 http://www.apkwhite.com/peliculasmix/Drone.2017.mkv
-#EXTINF:0,Batman.v.Superman.Dawn.of.Justice
+#EXTINF:0,Batman.v.Superman.Dawn.of.Justice" tvg-logo="http://up.fdfilm.ir/view/1728778/876677876677887787878%20(4).jpg"
 http://www.apkwhite.com/onedrives/carnes/Batman.v.Superman.Dawn.of.Justice.2016.Extended.Ultima.mp4
-#EXTINF:0,Trolls.2016
+#EXTINF:0,Trolls.2016" tvg-logo="http://orig12.deviantart.net/405d/f/2016/311/b/f/trolls_folder_icon_by_dahlia069-danmhkf.png"
 http://dl.funsaber.net/animation/Trolls.2016.360p.Trailer.Funsaber.mp4
-#EXTINF:0,Childs Play
+#EXTINF:0,Childs Play" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91eejGxgq8L._SY445_.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.1988.REMASTERED.720p.ShAaNiG.mkv
-#EXTINF:0,Childs Play 2
+#EXTINF:0,Childs Play 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/52/61/e0/5261e0ff3326363b662db953d93c1df5.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/childs.play.2.1990.720p.mkv
-#EXTINF:0,Childs Play 3
+#EXTINF:0,Childs Play 3" tvg-logo="http://crypticrock.com/wp-content/uploads/2015/08/childs-play-3-big-slide.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.3.1991.720p.mkv
-#EXTINF:0,Seed.of.Chucky 4
+#EXTINF:0,Seed.of.Chucky 4" tvg-logo="https://i.ytimg.com/vi/KTdBBmYOYRc/movieposter.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Seed.of.Chucky.2004.720p.mkv
-#EXTINF:0,Bride.of.Chucky
+#EXTINF:0,Bride.of.Chucky" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51e3crSOTML._SY445_.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Bride.of.Chucky.1998.720p.BluRay.x264.YIFY.mp4
-#EXTINF:0,a.todo.gas.6
+#EXTINF:0,a.todo.gas.6" tvg-logo="http://www.dicelacancion.com/revista/wp-content/uploads/2013/05/Fast-Furious-6-Original-Motion-Picture-Soundtrack.jpg"
 http://www.apkwhite.com/pelis/R%c3%a1pidosFuriosos%206.mkv
-#EXTINF:0,a.todo.gas.7
+#EXTINF:0,a.todo.gas.7" tvg-logo="http://www.metro951.com/wp-content/uploads/2015/09/7-635x321.jpg"
 http://www.apkwhite.com/Sagas/a.todo.gas.7.lat.hd720.mp4
-#EXTINF:0,todo.gas.8
+#EXTINF:0,todo.gas.8" tvg-logo="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/17881805_351351408595145_7767130338257534976_n.jpg"
 http://www.apkwhite.com/pelis1.3/fast8.mp4
-#EXTINF:0,300
+#EXTINF:0,300" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/018/227/300.jpg"
 http://www.apkwhite.com/pelis1.3/300.mkv
-#EXTINF:0,300 Rise of a Empire
+#EXTINF:0,300 Rise of a Empire" tvg-logo="http://hd.wallpaperswide.com/thumbs/300_rise_of_an_empire_2016-t2.jpg"
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
-#EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO 
+#EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
