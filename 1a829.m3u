@@ -1,4 +1,11 @@
 ﻿#EXTM3U
+
+#EXTINF:-1,USA:HBO HD
+rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+#EXTINF:-1,USA:HBO 
+rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
+#EXTINF:-1,Español:Atreseries 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
@@ -76,3 +83,4 @@ http://www.apkwhite.com/pelis1.3/300.mkv
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 #EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
+
