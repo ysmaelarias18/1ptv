@@ -59,7 +59,7 @@ http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
-#EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png"
+#EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Color_vision.png"
 http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
 #EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
 http://mek6.mekstream.com/telesistema/live/playlist.m3u8
@@ -69,7 +69,7 @@ http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
 http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
 #EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
-#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="http://www.televisiongratis.com.ar/images/stories/users/71/cdn%20canal%2037%20en%20vivo.png"
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/NCDN.png"
 http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 #EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
@@ -127,4 +127,168 @@ http://www.apkwhite.com/pelis1.3/300.mkv
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 #EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
-
+#EXTINF:-1,====Canales USA====
+#EXTINF:-1,USA: Toon Kids
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20341.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20470.ts
+#EXTINF:-1,USA: P.B.S Kids
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20368.ts
+#EXTINF:-1,USA: NICK HD (kids)
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20374.ts
+#EXTINF:-1,USA: NICKELODEON KIDS
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20373.ts
+#EXTINF:-1,USA: NICKTOONS
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20372.ts
+#EXTINF:-1,USA: SYFY HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20349.ts
+#EXTINF:-1,USA: T.N.T
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20348.ts
+#EXTINF:-1,USA: TBS
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20347.ts
+#EXTINF:-1,USA: TBS HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20346.ts
+#EXTINF:-1,UK: FOX
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20264.ts
+#EXTINF:-1,UK: FOX SD.
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20263.ts
+#EXTINF:-1,====Peliculas y PPV====
+#EXTINF:-1,UK: Movies24
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20244.ts
+#EXTINF:-1,UK: Movies4Man
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20243.ts
+#EXTINF:-1,UK: Movies4Man1
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20242.ts
+#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20284.ts
+#EXTINF:-1,UK: Sky Box Office (ppv events only)
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20210.ts
+#EXTINF:-1,USA: HBO 2 COMEDY
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20424.ts
+#EXTINF:-1,USA: HBO Family HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20423.ts
+#EXTINF:-1,USA: HBO HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20422.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20421.ts
+#EXTINF:-1,USA: HBO ZONE
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20420.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20362.ts
+#EXTINF:-1,USA: Showtime Extreme HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20361.ts
+#EXTINF:-1,USA: Showtime HDTV
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20360.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20359.ts
+#EXTINF:-1,USA: Cinemax 5 Max
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20466.ts
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20465.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20464.ts
+#EXTINF:-1,USA: Cinemax East
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20463.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20462.ts
+#EXTINF:-1,USA: Starz Encore East
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20352.ts
+#EXTINF:-1,USA: Starz Encore HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20351.ts
+#EXTINF:-1,USA: Starz West
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20350.ts
+#EXTINF:-1,USA: Starz Comedy
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20355.ts
+#EXTINF:-1,USA: Starz East
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20354.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20353.ts
+#EXTINF:-1,USA: Starz Encore East
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20352.ts
+#EXTINF:-1,USA: Starz Encore HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20351.ts
+#EXTINF:-1,USA: Starz West
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20350.ts
+#EXTINF:-1,UK: Sky Movies  Premiere
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20208.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20207.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20206.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20205.ts
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20204.ts
+#EXTINF:-1,UK: SKY Movies Disney HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20203.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20202.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance.
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
+#EXTINF:-1,UK: Sky Movies Hits Showcase HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20198.ts
+#EXTINF:-1,UK: SKY Movies Premier HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20197.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20196.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20195.ts
+#EXTINF:-1,====Basicos====
+#EXTINF:-1,USA: FX HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20428.ts
+#EXTINF:-1,USA: FOX
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20435.ts
+#EXTINF:-1,USA: TRU TV
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20339.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20451.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20450.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20449.ts
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20448.ts
+#EXTINF:-1,USA: DISNEY JR HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20447.ts
+#EXTINF:-1,USA: E! Network HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20446.ts
+#EXTINF:-1,USA: WWE Network
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20325.ts
+#EXTINF:-1,UK: History Channel
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20259.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20228.ts
+#EXTINF:-1,UK: National Geographic Channel
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20227.ts
+#EXTINF:-1,UK: NIck JR
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20226.ts
+#EXTINF:-1,UK: Nick JR 1
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20225.ts
+#EXTINF:-1,UK: Nick JR Peppa
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20224.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20223.ts
+#EXTINF:-1,UK: NickToons
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20222.ts
+#EXTINF:-1,UK: SkySelect
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20169.ts
+#EXTINF:-1,UK: SkyShowcase
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20168.ts
+#EXTINF:-1,UK: Sony Max
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20167.ts
+#EXTINF:-1,UK: Sony Movie
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20166.ts
+#EXTINF:-1,UK: True Movies 1
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20149.ts
+#EXTINF:-1,UK: True Movies 2
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20148.ts
+#EXTINF:-1,TR: Disney Channel
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20622.ts
+#EXTINF:-1,TR: Disney JR
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20621.ts
+#EXTINF:-1,TR: Disney XD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20620.ts
