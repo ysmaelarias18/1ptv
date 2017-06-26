@@ -44,13 +44,12 @@ https://cache15.vidoza.net/jdggeep7gsik3wqpjn2wnpxt335zuiaatflortuzugmupg7zoimak
 #EXTINF:-1,El señor de los cielos 5 capitulo 5
 http://94.23.213.74:8777/pfap44uljznv3h2yufp5r5cnekkkeqkr3xoti6ezxjyljcrmnmhw2tpyleva/v.mp4.m3u8
 
-#EXTINF:-1,USA: mummy
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
-#EXTINF:-1,USA:the mummy
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
-#EXTINF:-1,USA:Wonder Woman (2017)
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4.m3u8
+
 #EXTINF:-1,====Canales ====
+#EXTINF:-1Real Madrid TV (ES) (Spanish)"tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/real_madrid.png"
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,La:DW Latinoamérica "tvg-logo="http://www.ipuntotv.com/IMAGES/DW-espanol.jpg"
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Español:Atreseries "tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg"
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,====Canales Dominicanos ====
@@ -85,6 +84,15 @@ http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
+#EXTINF:0,,Canal America"tvg-logo="http://worlddominocouncil.com/blog/wp-content/uploads/2016/09/Logo-canal_america_do.png"
+http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,====Peliculas 2017 ====
+#EXTINF:-1,USA: mummy "tvg-logo="http://www.fun-lover.com/graphic-shop/Halloween/images/Mummies/mummy-016.png"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
+#EXTINF:-1,USA:the mummy "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
+#EXTINF:-1,USA:Wonder Woman (2017)"tvg-logo="http://media.boingboing.net/wp-content/uploads/2017/06/1491990205555-1.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4.m3u8
 #EXTINF:0,,xXx3"tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/xxx3-internationaposter.jpg"
 http://www.apkwhite.com/pelis/xXx3.mp4.m3u8
 #EXTINF:0,Resident.Evil.The.Final.Chapter" tvg-logo="http://orig15.deviantart.net/c4b7/f/2017/007/0/7/resident_evil_the_final_chapter_movie_folder_icon_by_zenoasis-daullkt.png"
@@ -133,6 +141,7 @@ http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4.m3u8
 #EXTINF:-1,====Canales USA====
 
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20621.ts
+#EXTINF:-1,La:DW Latinoamérica
+
 #EXTINF:-1,TR: Disney XD
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20620.ts
