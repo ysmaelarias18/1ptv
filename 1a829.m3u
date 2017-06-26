@@ -29,31 +29,35 @@ http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
 #EXTINF:-1,UK: Sky Movies Hits Showcase HD
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20198.ts
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20197.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20196.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20195.ts
+#EXTINF:-1,USA: Smurfs The Lost Village (2017)
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Smurfs%20The%20Lost%20Village%20(2017)%20Cam%20-%20AVC%20-%20AAC%20-%20English+Latino%20-%20IcTv%20LotterY.mkv
+#EXTINF:-1,USA: Transformers: The Last Knight (2017)
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Transformers%20The%20Last%20Knight%20(2017)/Transformers%20The%20Last%20Knight%202017%20Evonetbd.com.avi
+#EXTINF:-1,USA:War.Machine (2017) 
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/War.Machine%20(2017)%20Evonetbd.com/War.Machine.2017.1080p.HDRip.X264.AC3-EVO.mkv
+
 #EXTINF:-1,El señor de los cielos 5 capitulo 2
 https://cache14.vidoza.net/jdggfjgpgsik3wqpjn3wn7hxqo6rfmcrwzgwdz7we273mi7r7ln3jrzmxcxq/v.mp4.m3u8
 #EXTINF:-1,El señor de los cielos 5 capitulo 3
 https://cache15.vidoza.net/jdggeep7gsik3wqpjn2wnpxt335zuiaatflortuzugmupg7zoimakcmvblsa/v.mp4.m3u8
 
-
 #EXTINF:-1,El señor de los cielos 5 capitulo 5
 http://94.23.213.74:8777/pfap44uljznv3h2yufp5r5cnekkkeqkr3xoti6ezxjyljcrmnmhw2tpyleva/v.mp4.m3u8
 
+#EXTINF:-1,USA: mummy
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
 #EXTINF:-1,USA:the mummy
 http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
 #EXTINF:-1,USA:Wonder Woman (2017)
 http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4.m3u8
-#EXTINF:-1,Español:Atreseries 
+#EXTINF:-1,====Canales ====
+#EXTINF:-1,Español:Atreseries "tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg"
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png"
+#EXTINF:-1,====Canales Dominicanos ====
+#EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png"
 http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
-#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tucabletv.com/wp-content/uploads/2016/10/certv.png"
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tricom.net/sites/default/files/logos/CERTVRTVD.png"
 http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
@@ -75,24 +79,24 @@ http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 #EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
-#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+#EXTINF:-1,"Canal25(R. Dominicana)"tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal25-Logo-300x300.jpg"
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
-#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://www.rnn.com.py/wp-content/uploads/2016/03/logo-header.png"
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://vivotvhd.com/img/cha/1971.gif"
 http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
 #EXTINF:0,,xXx3"tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/xxx3-internationaposter.jpg"
-http://www.apkwhite.com/pelis/xXx3.mp4
+http://www.apkwhite.com/pelis/xXx3.mp4.m3u8
 #EXTINF:0,Resident.Evil.The.Final.Chapter" tvg-logo="http://orig15.deviantart.net/c4b7/f/2017/007/0/7/resident_evil_the_final_chapter_movie_folder_icon_by_zenoasis-daullkt.png"
 http://www.apkwhite.com/pelis/Resident.Evil.The.Final.Chapter..mkv
 #EXTINF:0,Logan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyztN5TGwobSN9mTqN6VvERnvXiFcPpL_xf8IAHBG943W-BM3N7A"
-http://www.apkwhite.com/pelis/LoganLatino.mp4
+http://www.apkwhite.com/pelis/LoganLatino.mp4.m3u8
 #EXTINF:0,Power Rangers (2017) HDTS ESPAÑOL LATINO" tvg-logo="http://orig05.deviantart.net/580e/f/2017/066/e/6/power_rangers__2017__v3_by_drdarkdoom-db1iij8.png"
 http://www.apkwhite.com/onedrives/carnes/Power%20Rangers%20(2017)%20HDTS%20%20ESPA%c3%91OL%20LATINO%20-%20Olimpo.link.mp4
 #EXTINF:0,JohnWick2" tvg-logo="https://wwww.moviedramaguide.top/wp-content/uploads/2017/02/john-wick-2.jpg"
 http://www.apkwhite.com/pelis/JohnWick2un.mkv
 #EXTINF:0,FistFight2017" tvg-logo="https://www.biggestmoviebox.com//media/movies/large/9402968457745389.png"
-http://www.apkwhite.com/pelis/2017/FistFight2017.MP4
+http://www.apkwhite.com/pelis/2017/FistFight2017.MP4.m3u8
 #EXTINF:0,BeautyAndTheBeast" tvg-logo="http://www.booktopia.com.au/http_coversbooktopiacomau/big/9322225206083/beauty-and-the-beast-2014-.jpg"
 http://www.apkwhite.com/Sagas/BeautyAndTheBeast.mkv
 #EXTINF:0,Justice League Dark (2017) Latino " tvg-logo="https://i1.wp.com/cdn.batman-news.com/wp-content/uploads/2017/02/justice-league-dark-poster.jpg?quality=85&strip=info&ssl=1&w=800"
@@ -104,7 +108,7 @@ http://www.apkwhite.com/peliculasmix/Drone.2017.mkv
 #EXTINF:0,Batman.v.Superman.Dawn.of.Justice" tvg-logo="http://up.fdfilm.ir/view/1728778/876677876677887787878%20(4).jpg"
 http://www.apkwhite.com/onedrives/carnes/Batman.v.Superman.Dawn.of.Justice.2016.Extended.Ultima.mp4
 #EXTINF:0,Trolls.2016" tvg-logo="http://orig12.deviantart.net/405d/f/2016/311/b/f/trolls_folder_icon_by_dahlia069-danmhkf.png"
-http://dl.funsaber.net/animation/Trolls.2016.360p.Trailer.Funsaber.mp4
+http://dl.funsaber.net/animation/Trolls.2016.360p.Trailer.Funsaber.mp4.m3u8
 #EXTINF:0,Childs Play" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91eejGxgq8L._SY445_.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.1988.REMASTERED.720p.ShAaNiG.mkv
 #EXTINF:0,Childs Play 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/52/61/e0/5261e0ff3326363b662db953d93c1df5.jpg"
@@ -114,181 +118,21 @@ http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.3.1991.720p.mkv
 #EXTINF:0,Seed.of.Chucky 4" tvg-logo="https://i.ytimg.com/vi/KTdBBmYOYRc/movieposter.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Seed.of.Chucky.2004.720p.mkv
 #EXTINF:0,Bride.of.Chucky" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51e3crSOTML._SY445_.jpg"
-http://dl.funsaber.net/Collection/Childs%20Play/Bride.of.Chucky.1998.720p.BluRay.x264.YIFY.mp4
+http://dl.funsaber.net/Collection/Childs%20Play/Bride.of.Chucky.1998.720p.BluRay.x264.YIFY.mp4.m3u8
 #EXTINF:0,a.todo.gas.6" tvg-logo="http://www.dicelacancion.com/revista/wp-content/uploads/2013/05/Fast-Furious-6-Original-Motion-Picture-Soundtrack.jpg"
 http://www.apkwhite.com/pelis/R%c3%a1pidosFuriosos%206.mkv
 #EXTINF:0,a.todo.gas.7" tvg-logo="http://www.metro951.com/wp-content/uploads/2015/09/7-635x321.jpg"
-http://www.apkwhite.com/Sagas/a.todo.gas.7.lat.hd720.mp4
+http://www.apkwhite.com/Sagas/a.todo.gas.7.lat.hd720.mp4.m3u8
 #EXTINF:0,todo.gas.8" tvg-logo="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/17881805_351351408595145_7767130338257534976_n.jpg"
-http://www.apkwhite.com/pelis1.3/fast8.mp4
+http://www.apkwhite.com/pelis1.3/fast8.mp4.m3u8
 #EXTINF:0,300" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/018/227/300.jpg"
 http://www.apkwhite.com/pelis1.3/300.mkv
 #EXTINF:0,300 Rise of a Empire" tvg-logo="http://hd.wallpaperswide.com/thumbs/300_rise_of_an_empire_2016-t2.jpg"
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 #EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
-http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
+http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4.m3u8
 #EXTINF:-1,====Canales USA====
-#EXTINF:-1,USA: Toon Kids
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20341.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20470.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20368.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20374.ts
-#EXTINF:-1,USA: NICKELODEON KIDS
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20373.ts
-#EXTINF:-1,USA: NICKTOONS
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20372.ts
-#EXTINF:-1,USA: SYFY HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20349.ts
-#EXTINF:-1,USA: T.N.T
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20348.ts
-#EXTINF:-1,USA: TBS
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20347.ts
-#EXTINF:-1,USA: TBS HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20346.ts
-#EXTINF:-1,UK: FOX
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20264.ts
-#EXTINF:-1,UK: FOX SD.
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20263.ts
-#EXTINF:-1,====Peliculas y PPV====
-#EXTINF:-1,UK: Movies24
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20244.ts
-#EXTINF:-1,UK: Movies4Man
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20243.ts
-#EXTINF:-1,UK: Movies4Man1
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20242.ts
-#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20284.ts
-#EXTINF:-1,UK: Sky Box Office (ppv events only)
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20210.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20424.ts
-#EXTINF:-1,USA: HBO Family HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20423.ts
-#EXTINF:-1,USA: HBO HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20422.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20421.ts
-#EXTINF:-1,USA: HBO ZONE
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20420.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20362.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20361.ts
-#EXTINF:-1,USA: Showtime HDTV
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20360.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20359.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20466.ts
-#EXTINF:-1,USA: Cinemax 5 Star Max
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20465.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20464.ts
-#EXTINF:-1,USA: Cinemax East
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20463.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20462.ts
-#EXTINF:-1,USA: Starz Encore East
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20352.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20351.ts
-#EXTINF:-1,USA: Starz West
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20350.ts
-#EXTINF:-1,USA: Starz Comedy
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20355.ts
-#EXTINF:-1,USA: Starz East
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20354.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20353.ts
-#EXTINF:-1,USA: Starz Encore East
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20352.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20351.ts
-#EXTINF:-1,USA: Starz West
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20350.ts
-#EXTINF:-1,UK: Sky Movies  Premiere
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20208.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20207.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20206.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20205.ts
-#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20204.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20203.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20202.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance.
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
-#EXTINF:-1,UK: Sky Movies Greats HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
-#EXTINF:-1,UK: Sky Movies Hits Showcase HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20198.ts
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20197.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20196.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20195.ts
-#EXTINF:-1,====Basicos====
-#EXTINF:-1,USA: FX HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20428.ts
-#EXTINF:-1,USA: FOX
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20435.ts
-#EXTINF:-1,USA: TRU TV
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20339.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20451.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20450.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20449.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20448.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20447.ts
-#EXTINF:-1,USA: E! Network HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20446.ts
-#EXTINF:-1,USA: WWE Network
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20325.ts
-#EXTINF:-1,UK: History Channel
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20259.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20228.ts
-#EXTINF:-1,UK: National Geographic Channel
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20227.ts
-#EXTINF:-1,UK: NIck JR
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20226.ts
-#EXTINF:-1,UK: Nick JR 1
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20225.ts
-#EXTINF:-1,UK: Nick JR Peppa
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20224.ts
-#EXTINF:-1,UK: Nickelodeon
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20223.ts
-#EXTINF:-1,UK: NickToons
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20222.ts
-#EXTINF:-1,UK: SkySelect
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20169.ts
-#EXTINF:-1,UK: SkyShowcase
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20168.ts
-#EXTINF:-1,UK: Sony Max
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20167.ts
-#EXTINF:-1,UK: Sony Movie
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20166.ts
-#EXTINF:-1,UK: True Movies 1
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20149.ts
-#EXTINF:-1,UK: True Movies 2
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20148.ts
-#EXTINF:-1,TR: Disney Channel
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20622.ts
-#EXTINF:-1,TR: Disney JR
+
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20621.ts
 #EXTINF:-1,TR: Disney XD
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20620.ts
