@@ -1,66 +1,55 @@
 ﻿#EXTM3U
-#EXTINF:-1,BG:HBO1
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22384.ts
-#EXTINF:-1,BG:HBO2
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22383.ts
-#EXTINF:-1,UK: Sky Box Office (ppv events only)
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20210.ts
+
+#EXTINF:-1,============================================================================MiniSeries =====================================================================
 #EXTINF:-1,El señor de los cielos 5 capitulo 1
 https://cache12.vidoza.net/jdggeep7gsik3wqpjn2wnpxt335zuiaatflortuzugmupg7zoimmj44wblta/v.mp4.m3u8
-#EXTINF:-1,UK: Sky Movies  Premiere
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20208.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20207.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20206.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20205.ts
-#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20204.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20203.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20202.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance.
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
-#EXTINF:-1,UK: Sky Movies Greats HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
-#EXTINF:-1,UK: Sky Movies Hits Showcase HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20198.ts
-#EXTINF:-1,USA: Smurfs The Lost Village (2017)
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Smurfs%20The%20Lost%20Village%20(2017)%20Cam%20-%20AVC%20-%20AAC%20-%20English+Latino%20-%20IcTv%20LotterY.mkv
-#EXTINF:-1,USA: Transformers: The Last Knight (2017)
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Transformers%20The%20Last%20Knight%20(2017)/Transformers%20The%20Last%20Knight%202017%20Evonetbd.com.avi
-#EXTINF:-1,USA:War.Machine (2017) 
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/War.Machine%20(2017)%20Evonetbd.com/War.Machine.2017.1080p.HDRip.X264.AC3-EVO.mkv
-
 #EXTINF:-1,El señor de los cielos 5 capitulo 2
 https://cache14.vidoza.net/jdggfjgpgsik3wqpjn3wn7hxqo6rfmcrwzgwdz7we273mi7r7ln3jrzmxcxq/v.mp4.m3u8
 #EXTINF:-1,El señor de los cielos 5 capitulo 3
 https://cache15.vidoza.net/jdggeep7gsik3wqpjn2wnpxt335zuiaatflortuzugmupg7zoimakcmvblsa/v.mp4.m3u8
-
 #EXTINF:-1,El señor de los cielos 5 capitulo 5
 http://94.23.213.74:8777/pfap44uljznv3h2yufp5r5cnekkkeqkr3xoti6ezxjyljcrmnmhw2tpyleva/v.mp4.m3u8
 
 
-#EXTINF:-1,====Canales ====
+#EXTINF:-1,============================================================================MAS Peliculas 2017 =====================================================================
+#EXTINF:-1,ES: Wonder+Woman"tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/wonder-woman1.jpg"
+https://1fiagfc.oloadcdn.net/dl/l/6mFEI5tP3OZjAmMm/psLiRWPdmKs/Wonder+Woman+%282017%29+-+Lat+HD-TC+2.avi.mp4?mime=true
+#EXTINF:-1,USA:Wonder Woman (2017)"tvg-logo="http://media.boingboing.net/wp-content/uploads/2017/06/1491990205555-1.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4
+#EXTINF:-1,USA: Smurfs The Lost Village (2017)"tvg-logo="er-woman1.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Smurfs%20The%20Lost%20Village%20(2017)%20Cam%20-%20AVC%20-%20AAC%20-%20English+Latino%20-%20IcTv%20LotterY.mkv
+#EXTINF:-1,USA: Transformers: The Last Knight (2017)"tvg-logo="http://thesource.com/wp-content/uploads/2017/06/00000000Transformers-The-Last-Knight-Poster.jpg"
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Transformers%20The%20Last%20Knight%20(2017)/Transformers%20The%20Last%20Knight%202017%20Evonetbd.com.avi
+#EXTINF:-1,ES: Transformers: The Last Knight (2017)"tvg-logo="http://thesource.com/wp-content/uploads/2017/06/00000000Transformers-The-Last-Knight-Poster.jpg"
+https://1fiagfa.oloadcdn.net/dl/l/1jcyeAQxhx_-oEXA/-WnWQ4hEAJI/Transformers+5+%282017%29+-+Lat+HC-TS.avi.mp4?mime=true
+https://1fiagfa.oloadcdn.net/dl/l/1jcyeAQxhx_-oEXA/-WnWQ4hEAJI/Transformers+5+%282017%29+-+Lat+HC-TS.avi.mp4?mime=true
+#EXTINF:-1,USA:War.Machine (2017) 
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/War.Machine%20(2017)%20Evonetbd.com/War.Machine.2017.1080p.HDRip.X264.AC3-EVO.mkv
+
+
+#EXTINF:-1,==============================================================================Canales ============================================================================
 #EXTINF:-1Real Madrid TV (ES) (Spanish)"tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/real_madrid.png"
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,La:DW Latinoamérica "tvg-logo="http://www.ipuntotv.com/IMAGES/DW-espanol.jpg"
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Español:Atreseries "tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg"
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,====Canales Dominicanos ====
+#EXTINF:-1,====================================================================Canales Dominicanos =============================================================================
 #EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png"
-http://mek6.mekstream.com/teleantillas/live/chunklist_w2094175962.m3u8
+http://mek6.mekstream.com/teleantillas/live/playlist.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
 #EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tricom.net/sites/default/files/logos/CERTVRTVD.png"
 http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-us755vfji_b298304_107752.ts
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-up9jrlchw_b610304_107733.ts
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-us755vfji_b298304_107767.ts
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
 #EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Color_vision.png"
 http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
@@ -86,25 +75,25 @@ http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
 #EXTINF:0,,Canal America"tvg-logo="http://worlddominocouncil.com/blog/wp-content/uploads/2016/09/Logo-canal_america_do.png"
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,====Peliculas 2017 ====
-#EXTINF:-1,USA: mummy "tvg-logo="http://www.fun-lover.com/graphic-shop/Halloween/images/Mummies/mummy-016.png"
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
-#EXTINF:-1,USA:the mummy "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
+#EXTINF:-1,======================================================================Peliculas 2017 ======================================================================================
+#EXTINF:-1,ES: La_momia_2017 "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
+https://streamango.com/embed/ddprnfssocerlfkk/La_momia_2017_-_lat_HDTS_mp4
+#EXTINF:-1,USA:The Mummy "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
 http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
 #EXTINF:-1,USA:Wonder Woman (2017)"tvg-logo="http://media.boingboing.net/wp-content/uploads/2017/06/1491990205555-1.jpg"
-http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4.m3u8
+http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/Wonder%20Woman%20%20(2017)/Wonder.Woman.2017.HDTS.x264-DiRG.mp4
 #EXTINF:0,,xXx3"tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/xxx3-internationaposter.jpg"
-http://www.apkwhite.com/pelis/xXx3.mp4.m3u8
+http://www.apkwhite.com/pelis/xXx3.mp4
 #EXTINF:0,Resident.Evil.The.Final.Chapter" tvg-logo="http://orig15.deviantart.net/c4b7/f/2017/007/0/7/resident_evil_the_final_chapter_movie_folder_icon_by_zenoasis-daullkt.png"
 http://www.apkwhite.com/pelis/Resident.Evil.The.Final.Chapter..mkv
 #EXTINF:0,Logan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyztN5TGwobSN9mTqN6VvERnvXiFcPpL_xf8IAHBG943W-BM3N7A"
-http://www.apkwhite.com/pelis/LoganLatino.mp4.m3u8
+http://www.apkwhite.com/pelis/LoganLatino.mp4
 #EXTINF:0,Power Rangers (2017) HDTS ESPAÑOL LATINO" tvg-logo="http://orig05.deviantart.net/580e/f/2017/066/e/6/power_rangers__2017__v3_by_drdarkdoom-db1iij8.png"
 http://www.apkwhite.com/onedrives/carnes/Power%20Rangers%20(2017)%20HDTS%20%20ESPA%c3%91OL%20LATINO%20-%20Olimpo.link.mp4
 #EXTINF:0,JohnWick2" tvg-logo="https://wwww.moviedramaguide.top/wp-content/uploads/2017/02/john-wick-2.jpg"
 http://www.apkwhite.com/pelis/JohnWick2un.mkv
 #EXTINF:0,FistFight2017" tvg-logo="https://www.biggestmoviebox.com//media/movies/large/9402968457745389.png"
-http://www.apkwhite.com/pelis/2017/FistFight2017.MP4.m3u8
+http://www.apkwhite.com/pelis/2017/FistFight2017.MP4
 #EXTINF:0,BeautyAndTheBeast" tvg-logo="http://www.booktopia.com.au/http_coversbooktopiacomau/big/9322225206083/beauty-and-the-beast-2014-.jpg"
 http://www.apkwhite.com/Sagas/BeautyAndTheBeast.mkv
 #EXTINF:0,Justice League Dark (2017) Latino " tvg-logo="https://i1.wp.com/cdn.batman-news.com/wp-content/uploads/2017/02/justice-league-dark-poster.jpg?quality=85&strip=info&ssl=1&w=800"
@@ -116,7 +105,7 @@ http://www.apkwhite.com/peliculasmix/Drone.2017.mkv
 #EXTINF:0,Batman.v.Superman.Dawn.of.Justice" tvg-logo="http://up.fdfilm.ir/view/1728778/876677876677887787878%20(4).jpg"
 http://www.apkwhite.com/onedrives/carnes/Batman.v.Superman.Dawn.of.Justice.2016.Extended.Ultima.mp4
 #EXTINF:0,Trolls.2016" tvg-logo="http://orig12.deviantart.net/405d/f/2016/311/b/f/trolls_folder_icon_by_dahlia069-danmhkf.png"
-http://dl.funsaber.net/animation/Trolls.2016.360p.Trailer.Funsaber.mp4.m3u8
+http://dl.funsaber.net/animation/Trolls.2016.360p.Trailer.Funsaber.mp4
 #EXTINF:0,Childs Play" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91eejGxgq8L._SY445_.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.1988.REMASTERED.720p.ShAaNiG.mkv
 #EXTINF:0,Childs Play 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/52/61/e0/5261e0ff3326363b662db953d93c1df5.jpg"
@@ -126,22 +115,48 @@ http://dl.funsaber.net/Collection/Childs%20Play/Childs.Play.3.1991.720p.mkv
 #EXTINF:0,Seed.of.Chucky 4" tvg-logo="https://i.ytimg.com/vi/KTdBBmYOYRc/movieposter.jpg"
 http://dl.funsaber.net/Collection/Childs%20Play/Seed.of.Chucky.2004.720p.mkv
 #EXTINF:0,Bride.of.Chucky" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51e3crSOTML._SY445_.jpg"
-http://dl.funsaber.net/Collection/Childs%20Play/Bride.of.Chucky.1998.720p.BluRay.x264.YIFY.mp4.m3u8
+http://dl.funsaber.net/Collection/Childs%20Play/Bride.of.Chucky.1998.720p.BluRay.x264.YIFY.mp4
 #EXTINF:0,a.todo.gas.6" tvg-logo="http://www.dicelacancion.com/revista/wp-content/uploads/2013/05/Fast-Furious-6-Original-Motion-Picture-Soundtrack.jpg"
 http://www.apkwhite.com/pelis/R%c3%a1pidosFuriosos%206.mkv
 #EXTINF:0,a.todo.gas.7" tvg-logo="http://www.metro951.com/wp-content/uploads/2015/09/7-635x321.jpg"
-http://www.apkwhite.com/Sagas/a.todo.gas.7.lat.hd720.mp4.m3u8
+http://www.apkwhite.com/Sagas/a.todo.gas.7.lat.hd720.mp4
 #EXTINF:0,todo.gas.8" tvg-logo="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/17881805_351351408595145_7767130338257534976_n.jpg"
-http://www.apkwhite.com/pelis1.3/fast8.mp4.m3u8
+http://www.apkwhite.com/pelis1.3/fast8.mp4
 #EXTINF:0,300" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/018/227/300.jpg"
 http://www.apkwhite.com/pelis1.3/300.mkv
 #EXTINF:0,300 Rise of a Empire" tvg-logo="http://hd.wallpaperswide.com/thumbs/300_rise_of_an_empire_2016-t2.jpg"
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 #EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
-http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4.m3u8
-#EXTINF:-1,====Canales USA====
+http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
+#EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
 #EXTINF:-1,La:DW Latinoamérica
 
 #EXTINF:-1,TR: Disney XD
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20620.ts
+#EXTINF:-1,UK: Sky Movies  Premiere
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20208.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20207.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20206.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20205.ts
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20204.ts
+#EXTINF:-1,UK: SKY Movies Disney HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20203.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20202.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance.
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
+#EXTINF:-1,BG:HBO1
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22384.ts
+#EXTINF:-1,BG:HBO2
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22383.ts
+#EXTINF:-1,UK: Sky Box Office (ppv events only)
+http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20210.ts
