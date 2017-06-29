@@ -48,6 +48,10 @@ http://dl.funsaber.net/movie/96/3/Lucky.2016.720p.WEB-DL.nItRo.mkv
 
 
 #EXTINF:-1,==============================================================================Canales ============================================================================
+#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
+http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/l_20640_5658926_943.ts?nimblesessionid=1054063
+#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
+http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/chunks.m3u8?nimblesessionid=1054063
 #EXTINF:-1Real Madrid TV (ES) (Spanish)"tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/real_madrid.png"
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,La:DW Latinoamérica "tvg-logo="http://www.ipuntotv.com/IMAGES/DW-espanol.jpg"
@@ -186,10 +190,10 @@ http://dl.dlfile.pro/3/The.Simpsons.Movie.2007.BluRay.720p.mkv
 http://dl3.vaiomusic.org/Movie1/Steve.Jobs.2015.720p.%28media.vaiomusic%29.mkv
 #EXTINF:-1,UK: Sky Movies Drama & Romance.
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
-#EXTINF:-1,UK: Sky Movies Greats HD
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
+#EXTINF:-1,Usa: Showtime
+https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessionid=174443&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE3IDQ6MTI6MDggUE0maGFzaF92YWx1ZT1DU080MytvUG9CUFpka3lXRDZvQ1p3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
+#EXTINF:-1,UK: MR BEAN
+https://www.youtube-nocookie.com/embed/AMGEHj3MjD8?rel=0&autoplay=1
 #EXTINF:-1,BG:HBO1
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22384.ts
 #EXTINF:-1,USA:Telemundo 47
