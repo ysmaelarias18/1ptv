@@ -159,6 +159,12 @@ http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
 #EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
+#EXTINF:-1,USA:Telemundo 47" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
+#EXTINF:-1,USA:Telemundo 47" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
+
+
 #EXTINF:-1,es:HACKER_2016.mp4" tvg-logo="http://imgs24.com/images/lao_pao_er_mr_six-760287917-large.jpg"
 http://media.bia4music.com/movie/2017/Film/6/HACKER_2016.mp4
 
@@ -186,11 +192,11 @@ http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20200.ts
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20199.ts
 #EXTINF:-1,BG:HBO1
 http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22384.ts
-#EXTINF:-1,BG:HBO2
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/22383.ts
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.480 (ppv events only)" tvg-logo="https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1"
+#EXTINF:-1,USA:Telemundo 47
+https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
+#EXTINF:-1,USA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
 http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.720 (ppv events only)" tvg-logo="https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1"
+#EXTINF:-1,UsA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png"
 http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.720p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.720 (ppv events only)" tvg-logo="https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1"
+#EXTINF:-1,Usa:The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
 hhttp://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.Kickoff.WEB-DL-HEEL.Funsaber_Net.mp4
