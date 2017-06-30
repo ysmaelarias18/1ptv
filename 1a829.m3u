@@ -9,14 +9,7 @@ https://cache14.vidoza.net/jdggfjgpgsik3wqpjn3wn7hxqo6rfmcrwzgwdz7we273mi7r7ln3j
 https://cache15.vidoza.net/jdggeep7gsik3wqpjn2wnpxt335zuiaatflortuzugmupg7zoimakcmvblsa/v.mp4.m3u8
 #EXTINF:-1,El señor de los cielos 5 capitulo 5
 http://94.23.213.74:8777/pfap44uljznv3h2yufp5r5cnekkkeqkr3xoti6ezxjyljcrmnmhw2tpyleva/v.mp4.m3u8
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.480 (ppv events only)"tvg-logo="https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1"
-http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.720 (ppv events only)"tvg-logo="https://cdn3.whatculture.com/images/2016/05/e6275d66d8532312-600x400.jpg"
-http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.720p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.MP4 (ppv events only)"tvg-logo="http://pm1.narvii.com/6327/5e3a0829480236bdec848c09698b365dbb9b1a5c_hq.jpg"
-hhttp://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.Kickoff.WEB-DL-HEEL.Funsaber_Net.mp4
 
-https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1
 #EXTINF:-1,============================================================================MAS Peliculas 2017 =====================================================================
 #EXTINF:-1,ES: Wonder+Woman"tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/wonder-woman1.jpg"
 https://1fiagfc.oloadcdn.net/dl/l/6mFEI5tP3OZjAmMm/psLiRWPdmKs/Wonder+Woman+%282017%29+-+Lat+HD-TC+2.avi.mp4
@@ -48,10 +41,7 @@ http://dl.funsaber.net/movie/96/3/Lucky.2016.720p.WEB-DL.nItRo.mkv
 
 
 #EXTINF:-1,==============================================================================Canales ============================================================================
-#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
-http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/playlist.m3u8
-#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
-http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/chunks.m3u8?nimblesessionid=1054063
+
 #EXTINF:-1Real Madrid TV (ES) (Spanish)"tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/real_madrid.png"
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,La:DW Latinoamérica "tvg-logo="http://www.ipuntotv.com/IMAGES/DW-espanol.jpg"
@@ -59,6 +49,10 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Español:Atreseries "tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg"
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,====================================================================Canales Dominicanos =============================================================================
+#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
+http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/playlist.m3u8
+#EXTINF:-1,ES: TVCOTUI"tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
+http://cm.hostlagarto.com:8081/TVCOTUI/tvcotuhd.myStream/chunks.m3u8?nimblesessionid=1054063
 #EXTINF:-1,"Teleantillas 2 R. Dominicana 2"tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png"
 http://mek6.mekstream.com/teleantillas/live/playlist.m3u8
 http://mek6.mekstream.com/teleantillas/live/chunklist_w378423352.m3u8
@@ -99,12 +93,69 @@ http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
 #EXTINF:0,,Canal America"tvg-logo="http://worlddominocouncil.com/blog/wp-content/uploads/2016/09/Logo-canal_america_do.png"
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,ES:Cartoon Network -2 "tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
+https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965740.ts
+
+#EXTINF:-1,======================================================================MAS CANALES ======================================================================================
+
+#EXTINF:-1,USA1:Telemundo 52"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+https://ssh101.com/m3u8/dyn/univi4/index.m3u8
+https://iblups.com/flip_chivass69.3mu8
+#EXTINF:-1,USA2:Telemundo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+http://livestream-f.akamaihd.net/i/25448228_7542546_81365789_1@99171/index_1596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1498872316~acl=/i/25448228_7542546_81365789_1@99171/*~data=hdntl~hmac=433d97e2b7e2bd95135b52da940856eea87a9a5d78e783ac0082907cc5627f41
+https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
+rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
+
+#EXTINF:-1,es:History 1" tvg-logo="https://ulango.tv/uploads/channels/528690/logo_history%20channel1.png"
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
+#EXTINF:-1,es: History 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png"
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/uK7viRRAfwjhsWQw-4300249680.ts
+#EXTINF:-1,es:H2 1" tvg-logo="http://tvprofil.net/img/kanali-logo/H2_logo.png"
+http://wowza2.mysoltv.com:1992/Latino_H2/tracks-v1a1/index.m3u8
+#EXTINF:-1,es: H2 2"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png"
+http://wowza2.mysoltv.com:1992/Latino_H2/tracks-v1a1/2017/06/30/06/46/40-05250.ts
+#EXTINF:-1,ES:ES:Cartoon Network -1"tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
+https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/playlist.m3u8
+#EXTINF:-1,ES: TNT 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
+http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/index.m3u8
+#EXTINF:-1,ES: TNT 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
+http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/2017/06/30/07/11/53-10000.ts
+#EXTINF:-1,ES: DISNEY 1"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/playlist.m3u8
+#EXTINF:-1,ES: DISNEY 2 "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/1s2M52NAf3_NPwA6-6591221370.ts
+#EXTINF:-1,ES:Space_HD 1 "tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png"
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ES:Space_HD 2"tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png"
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/2017/06/30/07/03/28-05422.ts
+#EXTINF:-1,ES:Fox 1"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+#EXTINF:-1,ES:Fox 2"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/tracks-v1a1/2017/06/30/07/05/27-06006.ts
+#EXTINF:-1,Usa: Showtime "tvg-logo="http://www.abannervision.com/img/logos/showtime.png"
+https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessionid=174443&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE3IDQ6MTI6MDggUE0maGFzaF92YWx1ZT1DU080MytvUG9CUFpka3lXRDZvQ1p3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
+#EXTINF:-1,ES:Caracol TV" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"
+https://live2.userapi.com/639909/live/uq3si2lAf3U/playlist.m3u8
+#EXTINF:-1,BG:HBO 1 "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png"
+http://server.hdca.st:8081/live/ibtvhbo_9p6iyisu/chunks.m3u8
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 1" tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/2017/06/30/06/51/47-04004.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 2 " tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/index.m3u8
+#EXTINF:-1,USA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
+#EXTINF:-1,UsA: ESNP HD Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png"
+http://ecdn.dynsite.tm/802AAD2/19274e/RJ_IN_R_ESPNUS/2017/06/30/05/40/26-05000.ts?segments_38959.ts
+#EXTINF:-1,Usa: ESPN2GO" tvg-logo="https://www.thelabmiami.com/wp-content/uploads/2016/06/ESPN-logo-wordmark.png"
+http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/espndep-p-200.m3u8
+http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/Seg_060117_013454456_1265/segment_060117_013454456_632825.ts
+#EXTINF:-1,Usa: ESPN Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+http://server.hdca.st:8081/live/ibtvespn_9hgo1mzl/chunks.m3u8
 #EXTINF:-1,======================================================================Peliculas 2017 ======================================================================================
 #EXTINF:-1,ES: La_momia_2017 "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
 https://streamango.com/embed/ddprnfssocerlfkk/La_momia_2017_-_lat_HDTS_mp4
 #EXTINF:-1,USA:The Mummy "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
 http://fs.evonetbd.com/Media/Movies/English%20Movies/2017/The%20Mummy%20(2017)/The%20Mummy%202017%20HD-TS%20x264-CPG.mkv
-
 #EXTINF:-1,USA:Wonder Woman 720-(2017)"tvg-logo="http://media.boingboing.net/wp-content/uploads/2017/06/1491990205555-1.jpg"
 http://dl.funsaber.net/movie/96/3/Wonder_Woman_2017_720p_TC_MkvCage_Funsaber_Net.mkv
 #EXTINF:-1,USA:Wonder Woman MP4-(2017)"tvg-logo="http://media.boingboing.net/wp-content/uploads/2017/06/1491990205555-1.jpg"
@@ -163,49 +214,61 @@ http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
 #EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
-#EXTINF:-1,USA1:Telemundo 52"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
-https://ssh101.com/m3u8/dyn/univi4/index.m3u8
-https://iblups.com/flip_chivass69.3mu8
-#EXTINF:-1,USA2:Telemundo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
-http://livestream-f.akamaihd.net/i/25448228_7542546_81365789_1@99171/index_1596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1498872316~acl=/i/25448228_7542546_81365789_1@99171/*~data=hdntl~hmac=433d97e2b7e2bd95135b52da940856eea87a9a5d78e783ac0082907cc5627f41
-https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
-rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
 
-
-#EXTINF:-1,es:HACKER_2016.mp4" tvg-logo="http://imgs24.com/images/lao_pao_er_mr_six-760287917-large.jpg"
-http://media.bia4music.com/movie/2017/Film/6/HACKER_2016.mp4
-
-#EXTINF:-1,TR:  Dragon Ball Super - 66 [480p].mkv
-http://download.oversubs.org/%5bHorribleSubs%5d%20Dragon%20Ball%20Super%20-%2066%20%5b480p%5d.mkv
-#EXTINF:-1,UK: Dragon Ball Super - 79 [480p].mkv
-http://download.oversubs.org/%5bHorribleSubs%5d%20Dragon%20Ball%20Super%20-%2079%20%5b480p%5d.mkv
+#EXTINF:-1,ES:test Network -2 "tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
+https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965740.ts
+#EXTINF:-1,ES:ES:test Network -1"tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
+https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/playlist.m3u8
 #EXTINF:-1,USA: Lamborghini
 http://media.bia4music.com/movie/2017/Film/4/Lamborghini%20480.mp4
-#EXTINF:-1,UK: CITIZEN 4 (Spanish Subtitles).webm
-https://radiosyculturalibre.com.ar/videos/Pelis%20y%20Documentales/CITIZEN%204%20(Spanish%20Subtitles).webm
-#EXTINF:-1,UK: 	Como crear una cartera bitcoin en BlockchainProyecto predeterminado.webm	
-https://radiosyculturalibre.com.ar/videos/Bitcoins/Como%20crear%20una%20cartera%20bitcoin%20en%20BlockchainProyecto%20predeterminado.webm
+#EXTINF:-1,USA: Lamborghini
+http://media.bia4music.com/movie/2017/Film/4/Lamborghini%20480.mp4
+#EXTINF:-1,ES: TNT 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
+http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/index.m3u8
+#EXTINF:-1,ES: TNT 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
+http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/2017/06/30/07/11/53-10000.ts
+#EXTINF:-1,ES: DISNEY 1"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/playlist.m3u8
+#EXTINF:-1,ES: DISNEY 2 "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/1s2M52NAf3_NPwA6-6591221370.ts
 #EXTINF:-1,UK: Instant.Death.2017.DVDRip.AVADL.BiZ.mp4 " tvg-logo="http://sv4avadl.uploadet.ir/Movie/2017/Instant.Death.2017.DVDRip.AVADL.BiZ_s.jpg"
 http://sv4avadl.uploadet.ir/Movie/2017/Instant.Death.2017.DVDRip.AVADL.BiZ.mp4
 #EXTINF:-1,UK: The.Simpsons.Movie.2007.BluRay.720p.mkv  
 http://dl.dlfile.pro/3/The.Simpsons.Movie.2007.BluRay.720p.mkv
-#EXTINF:-1,UK:Steve.Jobs.2015.720p.(media.vaiomusic).mkv  
-http://dl3.vaiomusic.org/Movie1/Steve.Jobs.2015.720p.%28media.vaiomusic%29.mkv
-#EXTINF:-1,UK: Sky Movies Drama & Romance.
-http://iptv.iptvthebest.net:15000/live/18017c0e76b9bb3/4508c0787e5aef0/20201.ts
-#EXTINF:-1,Usa: Showtime
+#EXTINF:-1,ES:Space_HD 1 "tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png"
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ES:Space_HD 2"tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png"
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/2017/06/30/07/03/28-05422.ts
+#EXTINF:-1,ES:Fox 1"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+#EXTINF:-1,ES:Fox 2"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/tracks-v1a1/2017/06/30/07/05/27-06006.ts
+#EXTINF:-1,Usa: Showtime "tvg-logo="http://www.abannervision.com/img/logos/showtime.png"
 https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessionid=174443&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE3IDQ6MTI6MDggUE0maGFzaF92YWx1ZT1DU080MytvUG9CUFpka3lXRDZvQ1p3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
 #EXTINF:-1,ES:Caracol TV" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"
 https://live2.userapi.com/639909/live/uq3si2lAf3U/playlist.m3u8
-#EXTINF:-1,BG:HBO1
+#EXTINF:-1,BG:HBO 1 "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png"
 http://server.hdca.st:8081/live/ibtvhbo_9p6iyisu/chunks.m3u8
-#EXTINF:-1,USA:Telemundo 52
-https://ssh101.com/m3u8/dyn/univi4/index.m3u8
-#EXTINF:-1,USA:Telemundo 4t
-https://hls.ssh101.com/live/univi4/1498778905252.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 1" tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/2017/06/30/06/51/47-04004.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 2 " tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/index.m3u8
 #EXTINF:-1,USA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
 http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,UsA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png"
+#EXTINF:-1,UsA: ESNP HD Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png"
+http://ecdn.dynsite.tm/802AAD2/19274e/RJ_IN_R_ESPNUS/2017/06/30/05/40/26-05000.ts?segments_38959.ts
+#EXTINF:-1,Usa: ESPN2GO" tvg-logo="https://www.thelabmiami.com/wp-content/uploads/2016/06/ESPN-logo-wordmark.png"
+http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/espndep-p-200.m3u8
+http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/Seg_060117_013454456_1265/segment_060117_013454456_632825.ts
+#EXTINF:-1,Usa: ESPN Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+http://server.hdca.st:8081/live/ibtvespn_9hgo1mzl/chunks.m3u8
+
+
+#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.480 (ppv events only)"tvg-logo="https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1"
+http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
+#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.720 (ppv events only)"tvg-logo="https://cdn3.whatculture.com/images/2016/05/e6275d66d8532312-600x400.jpg"
 http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.720p.WEB-DL.x264.Funsaber_Net.mkv
-#EXTINF:-1,Usa:The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+#EXTINF:-1,UK: WWE.Money.In.The.Bank.2017.PPV.MP4 (ppv events only)"tvg-logo="http://pm1.narvii.com/6327/5e3a0829480236bdec848c09698b365dbb9b1a5c_hq.jpg"
 hhttp://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.Kickoff.WEB-DL-HEEL.Funsaber_Net.mp4
+
+https://i1.wp.com/www.screencritics.net/wp-content/uploads/2017/06/Money-In-The-Bank-Header-1.png?resize=300%2C180&ssl=1
