@@ -106,6 +106,10 @@ https://iblups.com/flip_chivass69.3mu8
 http://livestream-f.akamaihd.net/i/25448228_7542546_81365789_1@99171/index_1596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1498872316~acl=/i/25448228_7542546_81365789_1@99171/*~data=hdntl~hmac=433d97e2b7e2bd95135b52da940856eea87a9a5d78e783ac0082907cc5627f41
 https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
 rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
+#EXTINF:-1,ES:NICK" tvg-logo="http://cordcuttersnews.com/wp-content/uploads/2015/06/Nick-Logo.jpg"
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19N2DXHQkJKi8GsWNdAqn3rfFqwYIqZTAcZhLM56Nx61hkpiRh/usbA6fN6DJalbIa13d+ULpvV7A==
+#EXTINF:-1,ES:Warner -2 "tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20170313114651"
+http://wowza2.mysoltv.com:1992/Latino_Warner_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,es:History 1" tvg-logo="https://ulango.tv/uploads/channels/528690/logo_history%20channel1.png"
 https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
@@ -216,8 +220,7 @@ http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20E
 #EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
 
-#EXTINF:-1,ES:test Network -2 "tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
-https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965740.ts
+
 #EXTINF:-1,ES:ES:test Network -1"tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
 https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/playlist.m3u8
 #EXTINF:-1,USA: Lamborghini
