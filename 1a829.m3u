@@ -61,8 +61,6 @@ http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
 #EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
-#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-us755vfji_b298304_107752.ts
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-up9jrlchw_b610304_107733.ts
@@ -97,7 +95,10 @@ http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965740.ts
 
 #EXTINF:-1,======================================================================MAS CANALES ======================================================================================
-
+#EXTINF:-1,"UNIVISION 1" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,"UNIVISION 2" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
+http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/2017/06/30/17/16/45-05005.ts
 #EXTINF:-1,USA1:Telemundo 52"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
 https://ssh101.com/m3u8/dyn/univi4/index.m3u8
 https://iblups.com/flip_chivass69.3mu8
@@ -136,11 +137,11 @@ http://wowza2.mysoltv.com:1992/Latino_Fox_HD/tracks-v1a1/2017/06/30/07/05/27-060
 https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessionid=174443&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE3IDQ6MTI6MDggUE0maGFzaF92YWx1ZT1DU080MytvUG9CUFpka3lXRDZvQ1p3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
 #EXTINF:-1,ES:Caracol TV" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"
 https://live2.userapi.com/639909/live/uq3si2lAf3U/playlist.m3u8
-#EXTINF:-1,BG:HBO 1 "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png"
+#EXTINF:-1,BG:HBO 1 "tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/06/hbo_blue-logo.png"
 http://server.hdca.st:8081/live/ibtvhbo_9p6iyisu/chunks.m3u8
-#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 1" tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 1" tvg-logo="http://apex-test.ebiz.uapps.net:86/Portals/0/TVMC%20logos/NGC_Horz_RGB.JPG"
 http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/2017/06/30/06/51/47-04004.ts
-#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 2 " tvg-logo=" http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png"
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 2" tvg-logo="http://apex-test.ebiz.uapps.net:86/Portals/0/TVMC%20logos/NGC_Horz_RGB.JPG"
 http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/index.m3u8
 #EXTINF:-1,USA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
 http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
