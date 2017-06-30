@@ -163,9 +163,11 @@ http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
 #EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
-#EXTINF:-1,USA1:Telemundo 47" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+#EXTINF:-1,USA1:Telemundo 52"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+https://ssh101.com/m3u8/dyn/univi4/index.m3u8
 https://iblups.com/flip_chivass69.3mu8
-#EXTINF:-1,USA:Telemundo 47" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+#EXTINF:-1,USA2:Telemundo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
 rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
 
 
@@ -195,8 +197,8 @@ https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessio
 #EXTINF:-1,ES:Caracol TV" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"
 https://live2.userapi.com/639909/live/uq3si2lAf3U/playlist.m3u8
 #EXTINF:-1,BG:HBO1
-https://hls.ssh101.com/live/univi4/1498779155604.ts
-#EXTINF:-1,USA:Telemundo 47
+http://server.hdca.st:8081/live/ibtvhbo_9p6iyisu/chunks.m3u8
+#EXTINF:-1,USA:Telemundo 52
 https://ssh101.com/m3u8/dyn/univi4/index.m3u8
 #EXTINF:-1,USA:Telemundo 4t
 https://hls.ssh101.com/live/univi4/1498778905252.ts
