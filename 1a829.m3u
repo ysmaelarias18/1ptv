@@ -63,8 +63,6 @@ http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-us755vfji_b298304_107752.ts
 #EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-up9jrlchw_b610304_107733.ts
-#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/media-us755vfji_b298304_107767.ts
 http://dlps5ckopydpl.cloudfront.net/player_antenalatina.html
 #EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Color_vision.png"
@@ -110,6 +108,15 @@ rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19N2DXHQkJKi8GsWNdAqn3rfFqwYIqZTAcZhLM56Nx61hkpiRh/usbA6fN6DJalbIa13d+ULpvV7A==
 #EXTINF:-1,ES:Warner -2 "tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20170313114651"
 http://wowza2.mysoltv.com:1992/Latino_Warner_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,"RCN 1" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"
+http://cdn.widestream.io:8081/wideedge/u1h6i1s/chunks.m3u8
+#EXTINF:-1,"RCN 2" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"
+http://cdn.widestream.io:8081/wideedge/u1h6i1s/l_7331057_83715697_13950.ts
+
+#EXTINF:-1,"Canal de las estrellas 1" tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_-2011.png"
+http://62.212.82.77:8088/stream/estrllasjun2017/playlist.m3u8
+#EXTINF:-1,"Canal de las estrellas 2" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790075_De_las_estrellas.png"
+http://62.212.82.77:8088/stream/estrllasjun2017/media_15982.ts
 
 #EXTINF:-1,es:History 1" tvg-logo="https://ulango.tv/uploads/channels/528690/logo_history%20channel1.png"
 https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
@@ -119,15 +126,15 @@ https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/uK7viRRAfwjhsWQw-43002496
 http://wowza2.mysoltv.com:1992/Latino_H2/tracks-v1a1/index.m3u8
 #EXTINF:-1,es: H2 2"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png"
 http://wowza2.mysoltv.com:1992/Latino_H2/tracks-v1a1/2017/06/30/06/46/40-05250.ts
-#EXTINF:-1,ES:ES:Cartoon Network -1"tvg-logo="https://github.com/tu1star/1ptv/blob/master/cl0rotv_files/CartoonNetwork.png"
+#EXTINF:-1,ES:ES:Cartoon Network -1" tvg-logo="http://vignette2.wikia.nocookie.net/ichc-channel/images/2/2a/Logo_CN.png/revision/latest?cb=20160426162807"
 https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/playlist.m3u8
 #EXTINF:-1,ES: TNT 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
 http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/index.m3u8
 #EXTINF:-1,ES: TNT 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
 http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/2017/06/30/07/11/53-10000.ts
-#EXTINF:-1,ES: DISNEY 1"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+#EXTINF:-1,ES: DISNEY 1"tvg-logo="http://4.bp.blogspot.com/-BxhFr3mPKoU/U9Wk8AHd6aI/AAAAAAAAm_Y/w4AWamu9ClA/s1600/disneychannel-2014.png"
 https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/playlist.m3u8
-#EXTINF:-1,ES: DISNEY 2 "tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
+#EXTINF:-1,ES: DISNEY 2 "tvg-logo="http://4.bp.blogspot.com/-BxhFr3mPKoU/U9Wk8AHd6aI/AAAAAAAAm_Y/w4AWamu9ClA/s1600/disneychannel-2014.png"
 https://live3.userapi.com/639907/live/1s2M52NAf3_NPwA6/1s2M52NAf3_NPwA6-6591221370.ts
 #EXTINF:-1,ES:Space_HD 1 "tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png"
 http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/index.m3u8
