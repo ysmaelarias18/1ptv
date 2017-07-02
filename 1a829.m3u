@@ -99,7 +99,7 @@ https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965
 #EXTINF:-1,======================================================================MAS CANALES ======================================================================================
 #EXTINF:-1,"UNIVISION 1" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
 http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1,USA2:Telemundo int" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+#EXTINF:-1,Int:Telemundo " tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
 http://edge504.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
 #EXTINF:-1,"UNIVISION 2" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
 http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/2017/06/30/17/16/45-05005.ts
@@ -240,8 +240,8 @@ http://edge201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
 http://media.bia4music.com/movie/2017/Film/4/Lamborghini%20480.mp4
 #EXTINF:-1,es:AMC"tvg-logo="https://vignette2.wikia.nocookie.net/ichc-channel/images/d/d1/AMC_Logo.png/revision/latest?cb=20160812182333"
  http://edge201.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
-#EXTINF:-1,ES: TNT 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
-http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/index.m3u8
+#EXTINF:-1,ES:A&E"tvg-logo="http://logonoid.com/images/a-and-e-logo.png"
+http://edge204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
 #EXTINF:-1,ES: SYFY"tvg-logo="https://lh3.googleusercontent.com/-LZOxofWNq-g/V8tSVXaTMFI/AAAAAAAAAgs/pAAtZ2mRQecTOzATuyM6PTOwTHRUUd5UQCEw/w138-h140-p/sysf.png"
 http://edge202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
 #EXTINF:-1,ES: DISNEY 1"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8a/Disney_Channel_2014_Yellow_variant.png/revision/latest?cb%5Cx3d20140801191252"
