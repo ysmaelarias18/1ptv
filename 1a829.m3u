@@ -121,8 +121,8 @@ http://cdn.widestream.io:8081/wideedge/u1h6i1s/l_7331057_83715697_13950.ts
 
 #EXTINF:-1,"Canal de las estrellas 1" tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_-2011.png"
 http://62.212.82.77:8088/stream/estrllasjun2017/playlist.m3u8
-#EXTINF:-1,"Canal de las estrellas 2" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790075_De_las_estrellas.png"
-http://62.212.82.77:8088/stream/estrllasjun2017/media_15982.ts
+#EXTINF:-1,"MTV " tvg-logo="http://lh6.ggpht.com/_iycryuTpdfM/TdqSaMALxQI/AAAAAAAACU0/MtlT3h5pqKA/s640/mtv_logo1_Decimal.png"
+http://edge202.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
 
 #EXTINF:-1,es:History 1" tvg-logo="https://ulango.tv/uploads/channels/528690/logo_history%20channel1.png"
 https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
