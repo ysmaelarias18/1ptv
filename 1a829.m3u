@@ -99,13 +99,15 @@ https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/t8eGhhBAfwxbFOsx-1238965
 #EXTINF:-1,======================================================================MAS CANALES ======================================================================================
 #EXTINF:-1,"UNIVISION 1" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
 http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,USA2:Telemundo int" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
+ttp://edge504.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
 #EXTINF:-1,"UNIVISION 2" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528492_univision-logo.png"
 http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/tracks-v1a1/2017/06/30/17/16/45-05005.ts
 #EXTINF:-1,USA1:Telemundo 52"tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
 https://ssh101.com/m3u8/dyn/univi4/index.m3u8
 https://iblups.com/flip_chivass69.3mu8
 #EXTINF:-1,USA2:Telemundo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png"
-http://livestream-f.akamaihd.net/i/25448228_7542546_81365789_1@99171/index_1596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1498872316~acl=/i/25448228_7542546_81365789_1@99171/*~data=hdntl~hmac=433d97e2b7e2bd95135b52da940856eea87a9a5d78e783ac0082907cc5627f41
+http://livestream-f.akamaihd.net/i/25448228_7542546_81365789_1@99171/index_1596_avp.m3u8w=100&rebase=on&hdntl=exp=1498872316~acl=/i/25448228_7542546_81365789_1@99171/*~data=hdntl~hmac=433d97e2b7e2bd95135b52da940856eea87a9a5d78e783ac0082907cc5627f41
 https://cdnh8.iblups.com/hls/9SYKGSXloB.m3u8
 rtmp://cdnp1.iblups.com/live/9SYKGSXloB.ts
 #EXTINF:-1,ES:NICK" tvg-logo="http://cordcuttersnews.com/wp-content/uploads/2015/06/Nick-Logo.jpg"
@@ -237,7 +239,7 @@ http://edge201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
 #EXTINF:-1,USA: Lamborghini
 http://media.bia4music.com/movie/2017/Film/4/Lamborghini%20480.mp4
 #EXTINF:-1,es:AMC"tvg-logo="https://vignette2.wikia.nocookie.net/ichc-channel/images/d/d1/AMC_Logo.png/revision/latest?cb=20160812182333"
-http://edge201.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+ http://edge201.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
 #EXTINF:-1,ES: TNT 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png"
 http://wowza2.mysoltv.com:1992/Latino_TNT/tracks-v1a1/index.m3u8
 #EXTINF:-1,ES: SYFY"tvg-logo="https://lh3.googleusercontent.com/-LZOxofWNq-g/V8tSVXaTMFI/AAAAAAAAAgs/pAAtZ2mRQecTOzATuyM6PTOwTHRUUd5UQCEw/w138-h140-p/sysf.png"
