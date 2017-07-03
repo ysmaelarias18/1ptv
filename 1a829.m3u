@@ -258,8 +258,8 @@ http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/index.m3u8
 http://wowza2.mysoltv.com:1992/Latino_Space_HD/tracks-v1a1/2017/06/30/07/03/28-05422.ts
 #EXTINF:-1,ES:Fox 1"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
 http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
-#EXTINF:-1,ES:Fox 2"tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png"
-http://wowza2.mysoltv.com:1992/Latino_Fox_HD/tracks-v1a1/2017/06/30/07/05/27-06006.ts
+#EXTINF:-1,ES:HBO 2"tvg-logo="https://ulango.tv/uploads/channels/59463/logo_hbo%204.png"
+http://live.latino-webtv.com/live_3.m3u8
 #EXTINF:-1,Usa: Showtime "tvg-logo="http://www.abannervision.com/img/logos/showtime.png"
 https://freeeucache2.streamlive.to/live/s53jbkmyldngbks/chunks.m3u8?nimblesessionid=174443&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE3IDQ6MTI6MDggUE0maGFzaF92YWx1ZT1DU080MytvUG9CUFpka3lXRDZvQ1p3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
 #EXTINF:-1,ES:Caracol TV" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"
