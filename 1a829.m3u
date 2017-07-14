@@ -125,8 +125,7 @@ http://wowza2.mysoltv.com:1992/Latino_Warner_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,"RCN 1" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"
 http://cdn.widestream.io:8081/wideedge/u1h6i1s/chunks.m3u8
 #EXTINF:-1,"RCN 2" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"
-http://cdn.widestream.io:8081/wideedge/u1h6i1s/l_7331057_83715697_13950.ts
-
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 #EXTINF:-1,"Canal de las estrellas 1" tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_-2011.png"
 http://62.212.82.77:8088/stream/estrllasjun2017/playlist.m3u8
 #EXTINF:-1,"MTV " tvg-logo="http://lh6.ggpht.com/_iycryuTpdfM/TdqSaMALxQI/AAAAAAAACU0/MtlT3h5pqKA/s640/mtv_logo1_Decimal.png"
@@ -169,14 +168,18 @@ http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/tracks-v1a1/2017/06/30
 #EXTINF:-1,ES:NATIONAL_GEOGRAPHIC 2" tvg-logo="http://apex-test.ebiz.uapps.net:86/Portals/0/TVMC%20logos/NGC_Horz_RGB.JPG"
 http://edge203.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
 #EXTINF:-1,USA: The YES Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
-http://dl.funsaber.net/movie/96/3/WWE.Money.In.The.Bank.2017.PPV.480p.WEB-DL.x264.Funsaber_Net.mkv
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,USA: MLB Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,UsA: ESNP HD Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png"
-http://ecdn.dynsite.tm/802AAD2/19274e/RJ_IN_R_ESPNUS/2017/06/30/05/40/26-05000.ts?segments_38959.ts
-#EXTINF:-1,Usa: ESPN2GO" tvg-logo="https://www.thelabmiami.com/wp-content/uploads/2016/06/ESPN-logo-wordmark.png"
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8#EXTINF:-1,Usa: ESPN2GO" tvg-logo="https://www.thelabmiami.com/wp-content/uploads/2016/06/ESPN-logo-wordmark.png"
 http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/espndep-p-200.m3u8
 http://ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/espndep-p-200/Seg_060117_013454456_1265/segment_060117_013454456_632825.ts
 #EXTINF:-1,Usa: ESPN Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
-http://server.hdca.st:8081/live/ibtvespn_9hgo1mzl/chunks.m3u8
+http://185.142.239.164:3135/Espn/1/index.m3u8
+#EXTINF:-1,Usa: ESPN 2 Network" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png""
+http://185.142.239.164:3135/Espn/2/index.m3u8
+
 #EXTINF:-1,======================================================================Peliculas 2017 ======================================================================================
 #EXTINF:-1,ES: La_momia_2017 "tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg"
 https://streamango.com/embed/ddprnfssocerlfkk/La_momia_2017_-_lat_HDTS_mp4
@@ -240,8 +243,68 @@ http://www.apkwhite.com/pelis1.3/300.mkv
 http://www.apkwhite.com/pelis1.3/300%20Rise%20of%20a%20Empire.mkv
 #EXTINF:0,El Bebe Jefazo (Un Jefe En Pañales) HDTS LATINO " tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/18/09/30/315303.jpg"
 http://www.apkwhite.com/onedrives/loveseason/El%20Bebe%20Jefazo%20(Un%20Jefe%20En%20Pa%c3%b1ales)%20HDTS%20%20LATINO%2011042017%20-%20Olimpo.link.mp4
-#EXTINF:-1,=====================================================================Canales USA=====================================================================================
+#EXTINF:-1,=====================================================================Canales mix=====================================================================================
 
+#EXTINF:0#EXTINF:0,#EXTINF:0#EXTINF:0#EXTINF:0#EXTINF:0,#EXTINF:0,,,,,24/7 Los Simpson esp
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:0,#EXTINF:0#EXTINF:0#EXTINF:0#EXTINF:0,#EXTINF:0,,,,24/7 Gravity Falls (VOD)
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+
+#EXTINF:0#EXTINF:0#EXTINF:0#EXTINF:0,#EXTINF:0,,,,Telemundo
+http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
+
+#EXTINF:0#EXTINF:0#EXTINF:0,#EXTINF:0,,,WAPA
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
+
+#EXTINF:0#EXTINF:0,#EXTINF:0,,Las Estrellas [-2]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:0,#EXTINF:0,Fox Sports*
+http://50.97.142.181:8080/foxsportt.m3u8
+
+#EXTINF:0,Fox Sports  esp
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+
+#EXTINF:0,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:0,RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+
+#EXTINF:0,Noticias 16
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+
+#EXTINF:0,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0,Eurosport 1
+http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:0,ESPN
+http://185.142.239.164:3135/Espn/1/index.m3u8
+
+#EXTINF:0,ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
+
+#EXTINF:0,NBA TV
+http://edge2504.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8
+
+#EXTINF:0,NFL Network
+http://185.142.239.164:3135/NFL/Network/index.m3u8
+
+#EXTINF:0,NFL Now [Off]
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:0,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0,#EXTINF:0,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+
+#EXTINF:-1,=====================================================================Canales USA=====================================================================================
 
 
 #EXTINF:-1,ES:AXN-1"tvg-logo="http://img-youpeliculas.com/images/2014/09/28/axnhd.png"
