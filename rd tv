@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:0,TV COTUI Rep. Dom.
+#EXTGRP:dominican group
+http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+#EXTINF:0,Teleantillas
+#EXTGRP:dominican group
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1785342674_DVR.m3u8
+#EXTINF:0,Certv
+#EXTGRP:dominican group
+http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
+#EXTINF:0,TeleMicro
+#EXTGRP:dominican group
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:0,Antena Latina
+#EXTGRP:dominican group
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+#EXTINF:0,colorVision
+#EXTGRP:dominican group
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w928369526.m3u8
+#EXTINF:0,Tele Sistema 11 
+#EXTGRP:dominican group
+http://69.64.69.92:1935/hits-tv-ch11app/studio/chunklist_w2106769759_DVR.m3u8
+#EXTINF:0,Bonao Tv Canal 12
+#EXTGRP:dominican group
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w782883157.m3u8
+#EXTINF:0,Telecentro
+#EXTGRP:dominican group
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:0,Digital Quince
+#EXTGRP:dominican group
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+#EXTINF:0,TeleUniverso
+#EXTGRP:dominican group
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:0,CDN1
+http://iframe.dacast.com/b/106615/c/463712
+#EXTINF:0,CDN
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/segment253566777_150_av-p.ts
+#EXTINF:0,CDN SPORTSMAx
+#EXTGRP:dominican group
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:0,super canal 33
+#EXTGRP:dominican group
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:0,Canal 25
+#EXTGRP:dominican group
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:0,RNN
+#EXTGRP:dominican group
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:0,La Voz de Maria
+#EXTGRP:dominican group
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w216451889.m3u8
+#EXTINF:0, Yuna Vision
+#EXTGRP:dominican group
+http://ss9.domint.net:1986/yv_str/yuna/chunklist_w924402548.m3u8
+#EXTINF:0,-DOMINICAN REP (opsion 2)-
+
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png" group-title="DOMINICAN REP",Antena 7 [Geo]
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b948304.m3u8
+#EXTINF:-1 group-title="DOMINICAN REP" tvg-logo="https://lh4.googleusercontent.com/-4Yjhx1Y6s38/AAAAAAAAAAI/AAAAAAAABZ8/FpHaj7xQyT0/photo.jpg",Latinos NCTV
+http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-69DQrpOQLlk/T4VhFxz3iWI/AAAAAAAAFow/9xe_MZDVlR8/s400/bonaotv.jpg" group-title="DOMINICAN REP",Bonao TV Canal 12
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w176943289.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2017/10/cropped-cropped-logoNew.png" group-title="DOMINICAN REP",Color Vision Canal 9
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/Mia-Tv.jpg" group-title="DOMINICAN REP",Mia TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0031&mode=12
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKJs6BR.png" group-title="DOMINICAN REP",Prodotel
+http://ss6.domint.net:1944/ptv_str/prodotel/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/07/rnn-27.jpg" group-title="DOMINICAN REP",RNN Canal 27
+http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.laromanabayahibenews.com/wp-content/uploads/2012/09/Romana-TV-canal-42-CLARO-TV-Wind-Telecom-Tricom-internet-republica-dominicana.jpg" group-title="DOMINICAN REP",Romana TV 42
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHzkGPx.png" group-title="DOMINICAN REP",Tele Azul
+http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 (Opt-1)
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5  (Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/09/teleradio_norte_logo.jpg" group-title="DOMINICAN REP",Teleradio Norte (New!)
+http://cm.hostlagarto.com:8081/Teleradionorte/TeleradionorteHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="DOMINICAN REP",Telesistema Canal 11
+http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN REP",Teleuniverso
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820501347/TRAdigital-2010_400x400.png" group-title="DOMINICAN REP",TRA Digital
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://xtremotv.com/images/xtremo_logo2_.png" group-title="DOMINICAN REP",Xtremo Channel
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0,24/7 WWE HD  24/7
+#EXTGRP:dominican group
+http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/chunklist_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==.m3u8
+#EXTINF:0,-----MLB AND WWE-----
+#EXTGRP:dominican group
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Univision
+https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500_ipad.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?ref=www.caracoltv.com
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", RCN
+http://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?ref=www.canalrcn.com
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telemundo 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telemundo 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0,24/7 WWE HD  24/7
+#EXTGRP:dominican group
+http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/chunklist_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==.m3u8
+
+#EXTINF:0,24/7 WWE HD  24/7 OPTION2
+#EXTGRP:dominican group
+http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/media_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==_190.ts
