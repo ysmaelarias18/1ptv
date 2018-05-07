@@ -96,15 +96,18 @@ http://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?ref=www.can
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telemundo 62
 http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.techspot.com/images2/news/bigimage/2018/03/2018-03-09-image-14.jpg" , MLB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB 
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB | HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3VYpZXFF03R64liq1YnuKXxEd_C_qIXCvkcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="DOMINICAN REP",24/7 WWE HD  24/7
+#EXTINF:-1 tvg-logo="https://img00.deviantart.net/e84a/i/2017/019/d/3/wwe_live_2017_logo_png_by_ambriegnsasylum16-daw0mf4.png
+" group-title="Deportes", 24/7 WWE HD
 http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/chunklist_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3VYpZXFF03R64liq1YnuKXxEd_C_qIXCvkcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="DOMINICAN REP",24/7 WWE HD  24/7 OPTION2
+
+#EXTINF:-1 tvg-logo="https://img00.deviantart.net/e84a/i/2017/019/d/3/wwe_live_2017_logo_png_by_ambriegnsasylum16-daw0mf4.png
+" group-title="Deportes", 24/7 WWE HD  24/7 ts
 http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/media_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==_190.ts
 
 #EXTINF:0,高清影院 Movies1
