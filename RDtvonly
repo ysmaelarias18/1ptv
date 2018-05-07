@@ -125,8 +125,6 @@ http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:0,-----MLB AND WWE-----
-#EXTGRP:dominican group
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Univision
@@ -145,12 +143,14 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB | HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3VYpZXFF03R64liq1YnuKXxEd_C_qIXCvkcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="DOMINICAN REP",24/7 WWE HD  24/7
-#EXTGRP:dominican group
 http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/chunklist_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3VYpZXFF03R64liq1YnuKXxEd_C_qIXCvkcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="DOMINICAN REP",24/7 WWE HD  24/7
  OPTION2
-#EXTGRP:dominican group
 http://cdn.cast4u.pw:1935/tv/WWUpWhubqN20180321/media_w274899348_tkaGRlbmR0aW1lPTE1MjU3MjUyNDAmaGRzdGFydHRpbWU9MCZoZGhhc2g9M2hLUTlvU0s1eU1lQUtZUGlxcnB0VFNRZXByZGE4aHpFaVNWRFAwVkVHanIwRnZxa3dCRWdYdWdDWkxleDc4UQ==_190.ts
+
+#EXTINF:0,高清影院 Movies1
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:0,高清影院 Movies2
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
